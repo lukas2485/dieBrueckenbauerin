@@ -362,6 +362,20 @@ h2 {
 @media only screen and (max-width: 1000px) {
     
 
+    /* Kontakt */
+
+  .kontaktBlock {
+    flex-direction: column;
+  }
+
+  .adresse {
+    font-size: 1.8rem;
+    margin: 0 0 2rem 0;
+  }
+
+
+
+
     /* Container für Bild und Box */
 
     .fotoContainer {
