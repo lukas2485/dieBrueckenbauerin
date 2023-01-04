@@ -21,50 +21,24 @@
     
     <div class="content">
     
-   
+        <h1>Kontakt</h1>
 
-
-        <div class="container-information">
-            
-            <div class="headline">
+        <div class="kontaktBlock">
+            <div class="adresse">
                 
-                <h1>Kontakt</h1>
-        
-            </div>
-        
-            <div class="showFirstText"><span id="text1">Lorem</span> ipsum dolor, sit amet consectetur adipisicing elit. Sit quo laboriosam dignissimos
-                facere unde sunt nihil! Consequuntur accusantium asperiores labore ex. Beatae, soluta harum quas quaerat 
-                similique adipisci eos omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis et accusamus commodi, sapiente, molestiae temporibus fugit 
-                eius repudiandae aut, aspernatur vitae iure facere necessitatibus aperiam praesentium enim! Amet, cumque in!
-                <br>
-                <div class="showMoreText">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit quo laboriosam dignissimos
-                    facere unde sunt nihil! Consequuntur accusantium asperiores labore ex. Beatae, soluta harum quas quaerat 
-                    similique adipisci eos omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis et accusamus commodi, sapiente, molestiae temporibus fugit 
-                    eius repudiandae aut, aspernatur vitae iure facere necessitatibus aperiam praesentium enim! Amet, cumque in!
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit quo laboriosam dignissimos
-                    facere unde sunt nihil! Consequuntur accusantium asperiores labore ex. Beatae, soluta harum quas quaerat 
-                    similique adipisci eos omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis et accusamus commodi, sapiente, molestiae temporibus fugit 
-                    eius repudiandae aut, aspernatur vitae iure facere necessitatibus aperiam praesentium enim! Amet, cumque in!
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit quo laboriosam dignissimos
-                    facere unde sunt nihil! Consequuntur accusantium asperiores labore ex. Beatae, soluta harum quas quaerat 
-                    similique adipisci eos omnis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis et accusamus commodi, sapiente, molestiae temporibus fugit 
-                    eius repudiandae aut, aspernatur vitae iure facere necessitatibus aperiam praesentium enim! Amet, cumque in!
-                </div>
-                <br>
-                <a href="#text1'" class="show-more-Button">
-                        mehr
-                </a>
-
-                <a href="#text1" class="show-more-Button-weniger">
-                        weniger
-                </a>
-
-
+                <h3>Hier finden Sie uns</h3>
+                <p>Mag. Simone Hausensteiner<br>
+                    Birkenweg 200<br>
+                    4794 Kopfing im Innkreis    
+                </p>
+            
             </div>
 
-        
+            <div class="adresse-maps">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d393.4457473877879!2d13.659932515004346!3d48.441620573116644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4774644660404995%3A0xedd2dd03b866ed44!2sBirkenweg%20200%2C%204794%20Kopfing%20im%20Innkreis!5e0!3m2!1sde!2sat!4v1672845835642!5m2!1sde!2sat" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
         </div>
+        
 
 
     </div>        

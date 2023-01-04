@@ -280,8 +280,17 @@ h2 {
 
 
 
+   /* Kontakt */
 
+  .kontaktBlock {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 0 0 0;
+  }
 
+  .adresse {
+    font-size: 1.8rem;
+  }
 
 
 
