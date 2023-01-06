@@ -26,7 +26,7 @@
         <div class="kontaktBlock">
             <div class="adresse">
                 
-                <h3>Hier finden Sie uns</h3>
+                <div class="pin"><img src="../img/maps-Pin.png" width="20px" height ="auto" alt=""><h3>Hier finden Sie uns</h3></div>
                 <p>Mag. Simone Hausensteiner<br>
                     Birkenweg 200<br>
                     4794 Kopfing im Innkreis    

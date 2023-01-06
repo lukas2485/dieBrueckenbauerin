@@ -292,8 +292,18 @@ h2 {
     font-size: 1.8rem;
   }
 
+  .pin {
+    display: inline;
+    background-color: pink;
+  }
 
 
+  .pin h3::after{
+    content: url(../img/maps-Pin-klein.png);
+    
+    height: 20px;
+    width: 20px;
+  }
 
 .showMoreText {
     display:none;
