@@ -282,28 +282,24 @@ h2 {
 
    /* Kontakt */
 
-  .kontaktBlock {
-    display: flex;
-    justify-content: space-between;
-    margin: 2rem 0 0 0;
-  }
-
-  .adresse {
-    font-size: 1.8rem;
-  }
-
-  .pin {
-    display: inline;
-    background-color: pink;
-  }
-
-
-  .pin h3::after{
-    content: url(../img/maps-Pin-klein.png);
+.test {
+    font-size: 2rem;
+    position:relative;
     
-    height: 20px;
-    width: 20px;
-  }
+}
+
+.test::after {
+    content: "";
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    background-image: url(../img/maps-Pin.png );
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    bottom: 4px;
+    margin-left: 10px;
+}
 
 .showMoreText {
     display:none;
