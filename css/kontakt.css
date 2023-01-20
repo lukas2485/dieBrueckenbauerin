@@ -63,8 +63,10 @@
 }
 
 h3 {
-    font-size: 5rem;
+    font-size: 4rem;
+    font-weight: 500;
     word-wrap: break-word;
+    margin-bottom: 10px;
 }
 
 h1 {
