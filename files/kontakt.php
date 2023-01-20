@@ -32,27 +32,27 @@
                 </div>
                 <div class="innerContactContainer">
                         <div class="element">
-                            <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                            <img src="../img/kontakt/map-pin-white.png" alt="">
                             <h4>ADRESSE</h4>
-                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
+                            <p>Birkenweg 200  Kopfing im Innkreis</p>
                         </div>
 
                         <div class="element">
-                            <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                            <img src="../img/kontakt/map-pin-white.png" alt="">
                             <h4>ADRESSE</h4>
-                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
+                            <p>Birkenweg 200  Kopfing im Innkreis</p>
                         </div>
 
                         <div class="element">
-                            <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                        <img src="../img/kontakt/map-pin-white.png" alt="">
                             <h4>ADRESSE</h4>
-                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
+                            <p>Birkenweg 200  Kopfing im Innkreis</p>
                         </div>
 
                         <div class="element">
-                            <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                        <img src="../img/kontakt/map-pin-white.png" alt="">
                             <h4>ADRESSE</h4>
-                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
+                            <p>Birkenweg 200  Kopfing im Innkreis</p>
                         </div>
                 </div>
             </div>
