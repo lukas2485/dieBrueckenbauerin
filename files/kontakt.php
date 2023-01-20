@@ -26,15 +26,34 @@
 
         <div class="kontaktContainer">
             <div class="kontaktContent">
-                <h3>Kontaktieren Sie uns</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta similique explicabo qui corporis aspernatur, tenetur hic delectus voluptatum.</p>
-                <div class="logoContainer">
-                    <div class="row">
+                <div class="headline">
+                    <h3>Kontak&shy;tieren Sie uns</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta similique explicabo qui corporis aspernatur, tenetur hic delectus voluptatum.</p>
+                </div>
+                <div class="innerContactContainer">
                         <div class="element">
                             <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                            <h4>ADRESSE</h4>
+                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
                         </div>
-                    </div>
-                    <div class="row"></div>
+
+                        <div class="element">
+                            <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                            <h4>ADRESSE</h4>
+                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
+                        </div>
+
+                        <div class="element">
+                            <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                            <h4>ADRESSE</h4>
+                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
+                        </div>
+
+                        <div class="element">
+                            <img src="../img/kontakt/map-pin-point-icon.png" alt="">
+                            <h4>ADRESSE</h4>
+                            <p>Birkenweg 200 | Kopfing im Innkreis</p>
+                        </div>
                 </div>
             </div>
             <div class="maps">

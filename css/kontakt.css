@@ -1,25 +1,68 @@
-.kontaktContainer{
+
+* {
+    font-size: 1.3rem;
+    color: #ffffff;
+}
+
+.kontaktContainer {
     display: flex;
-    width: 50%;
-    border: 3px solid pink;
+    width: 100%;
+    max-width: 800px;
 }
 
 .kontaktContent{
+    background-color: #000;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
     width: 45%;
     min-height: 60vh;
     padding: 1.7rem;
 }
 
-.logoContainer{
+.maps {
+    width: 55%;
+}
+
+.headline {
+    text-align: center;
+}
+
+.innerContactContainer{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.element{
+    padding: 5px 1%;
+    margin-bottom: 2em;
+    text-align: center;
+    display:flex;
     flex-direction: column;
+    justify-content: space-between;
     align-items: center;
+    width: 40%; 
+    min-width: 134px;
 }
 
 
+.element img {
+    width: 13%;
+}
+
+.element h4 {
+    font-size: 1.4rem;
+    margin: 10px 0 20px 0;
+    letter-spacing: 1.6;
+}
 
 .kontaktContainer .maps {
     width: 55%;
+}
+
+h3 {
+    font-size: 5rem;
+    word-wrap: break-word;
 }
