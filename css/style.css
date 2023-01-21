@@ -85,7 +85,10 @@ h2 {
 .content{
     width: 60%;
     margin: 3rem auto;
-    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .nav-menu {
