@@ -4,10 +4,10 @@
             <div class="navHome">
                 <div class="navHomeLogo">
                     <div style="padding-left: 2rem;">
-                        <img src="../img/LogoHausensteiner2.png" alt="Aleq" width="70" height="auto">
+                        <a href="index.php"><img src="../img/logo_Die Brückenbauerin_klein.png" alt="Aleq" width="180" height="auto"></a>
                     </div>
 
-                    <p>Gespür | Verständnis | Einigung</p>
+                    <!-- <p>Gespür | Verständnis | Einigung</p> -->
                 </div>
                 
             </div>
