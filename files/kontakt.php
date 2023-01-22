@@ -54,7 +54,7 @@
                                 <img src="../img/kontakt/Email.png" alt="">
                             </div>
                             <h4>Mail</h4>
-                            <a href="mailto:office@dieBrueckenbauerin.at">office@dieBrueckenbauerin.at</a>
+                            <a href="mailto:office@dieBrueckenbauerin.at">office@dieBB.at</a>
                         </div>
 
                         <div class="element">

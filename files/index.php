@@ -17,9 +17,7 @@
     <!-- Navbar -->
     <?php  require_once('navbar.php');  ?>
 
-    <div class="headerBild">
-        <img src="../img/headerbild-schmal.jpg" alt="" width= "auto" height="auto" >
-    </div>
+    <div class="headerBild"></div>
 
     
     <div class="content">

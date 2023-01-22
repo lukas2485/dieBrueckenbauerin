@@ -64,8 +64,11 @@ h2 {
     background-color: #899a88;
 }
 
-.headerBild img{
-    width: 100%;
+.headerBild {
+    background-image: url(../img/headerbild-schmal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vh;
 }
 
 .hamburger {
