@@ -349,11 +349,10 @@ h2 {
 
 @media only screen and (max-width: 1000px) {
     
-
-    
-
-    
-
+    /* Container für Bild und Box */
+    .content{
+        width: 90%;
+    }
 
 
     /* Container für Bild und Box */

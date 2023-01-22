@@ -8,9 +8,6 @@
     display: flex;
     width: 100%;
     max-width: 1200px;
-    -webkit-box-shadow: 4px 7px 20px 1px rgba(0,0,0,0.42);
-    -moz-box-shadow: 4px 7px 20px 1px rgba(0,0,0,0.42);
-    box-shadow: 4px 7px 20px 1px rgba(0,0,0,0.42);
 }
 
 .kontaktContent{
@@ -19,13 +16,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    width: 45%;
+    width: 42%;
     min-height: 60vh;
     padding: 1.7rem;
 }
 
 .maps {
-    width: 53%;
+    width: 56%;
 }
 
 hr {
@@ -33,14 +30,24 @@ hr {
     border: none;
 }
 
+.kontaktContent, .maps {
+    -webkit-box-shadow: 4px 7px 20px 1px rgba(0,0,0,0.42);
+    -moz-box-shadow: 4px 7px 20px 1px rgba(0,0,0,0.42);
+    box-shadow: 4px 7px 20px 1px rgba(0,0,0,0.42);
+}
+
 .headline {
     text-align: center;
+}
+
+.headline p {
+    padding: 3vh 5%;
 }
 
 .innerContactContainer{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .element{
@@ -48,7 +55,7 @@ hr {
     text-align: center;
     display:flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     width: 40%; 
     min-width: 134px;
@@ -67,15 +74,15 @@ hr {
     width: 20%;
 }
 
+.element img:first-child {
+    width: 18%;
+}
+
 .element h4 {
     font-size: 1.4rem;
     margin: 10px 0 20px 0;
     letter-spacing: 1.6;
     text-transform: uppercase;
-}
-
-.kontaktContainer .maps {
-    width: 55%;
 }
 
 h3 {
@@ -87,4 +94,36 @@ h3 {
 
 h1 {
     margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    * {
+        font-size: 2rem;
+    }
+
+    .kontaktContainer {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .kontaktContent{
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        width: 100%;
+        min-height: 0;
+    }
+    
+    .maps {
+        width: 100%;
+        height: 100vh;
+    }
+    
+    hr {
+        width: 100%;
+        height: 3vh;
+    }
+
 }

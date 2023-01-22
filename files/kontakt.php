@@ -46,7 +46,7 @@
                                 <img src="../img/kontakt/Handy.png" alt="">
                             </div>
                             <h4>Handy</h4>
-                            <p>Birkenweg 200  Kopfing im Innkreis</p>
+                            <p>+43 680 14 75 650</p>
                         </div>
 
                         <div class="element">
@@ -54,7 +54,7 @@
                                 <img src="../img/kontakt/Email.png" alt="">
                             </div>
                             <h4>Mail</h4>
-                            <p>Birkenweg 200  Kopfing im Innkreis</p>
+                            <a href="mailto:office@dieBrueckenbauerin.at">office@dieBrueckenbauerin.at</a>
                         </div>
 
                         <div class="element">
@@ -62,7 +62,7 @@
                                 <img src="../img/kontakt/Kalender.png" alt="">
                             </div>
                             <h4>Termin</h4>
-                            <p>Birkenweg 200  Kopfing im Innkreis</p>
+                            <a href="#">Hier buchen</a>
                         </div>
                 </div>
             </div>
