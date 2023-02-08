@@ -15,6 +15,7 @@ html {
 
 body {
     background-color: #f2f0e1;
+    position: relative;
 }
 
 li {
@@ -60,7 +61,7 @@ h2 {
     width: 100%;
     justify-content: space-between;
     align-items: center;
-    padding: 3rem 10em 3rem 10em;
+    padding: 1rem 10em 1rem 10em;
     background-color: #899a88;
 }
 
@@ -168,6 +169,26 @@ h2 {
     flex-direction: column;
     align-items: flex-start;
     font-size: 1.8rem;
+}
+
+
+/* Background-Img */
+.bgTree {
+    width: 100%;
+    height: auto;
+    position:absolute;
+    top: 35%;
+    left: 0;
+    z-index: -1;
+}
+
+.bgTree svg{
+    width: 100%;
+    height: auto;
+}
+
+path {
+    fill: rgb(137, 154, 136, .1)!important;
 }
 
 
