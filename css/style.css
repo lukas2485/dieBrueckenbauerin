@@ -227,8 +227,24 @@ p {
     height: auto;
 }
 
-path {
+.bgTree path {
     fill: rgb(137, 154, 136, .1)!important;
+}
+
+.loewenzahn {
+    position: absolute;
+    top:-200;
+    right:0;
+    z-index: -10;
+    opacity: 0.2;
+}
+
+.loewenzahn svg{
+    
+}
+
+.loewenzahn path{
+    fill: var(--mainColorheadline)!important;
 }
 
 

@@ -19,7 +19,7 @@
                     <a href="index.php" class="nav-link">Mediation</a>
                 </li>
                 <li class="nav-item">
-                    <a href="leistungen.php" class="nav-link">Meine Leistungen</a>
+                    <a href="leistungen.php" class="nav-link">Leistungen</a>
                 </li>
                 <li class="nav-item">
                     <a href="ueberMich.php" class="nav-link">Über mich</a>
