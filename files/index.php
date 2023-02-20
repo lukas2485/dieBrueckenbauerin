@@ -24,6 +24,7 @@
             <!-- BG-BridgeTrees -->
             <div class="headerBild_Text">
                 <h1>Mediation Hausensteiner</h1>
+                <hr>
                 <h2>mit Gespür zur Einigkeit</h2>
             </div>
         

@@ -32,7 +32,7 @@ a {
 
 .header{
     border-bottom: 1px solid #E2E8F0;
-    
+    z-index: 1;
 }
 
 h1 {
@@ -72,6 +72,14 @@ p {
     position:sticky;
     top:0;    
 
+}
+
+hr {
+    margin-top: 30px;
+    width: 50%;
+    height: 5px;
+    background-color: var(--mainColorheadline);
+    border: 0;
 }
 
 
@@ -321,7 +329,6 @@ p {
   
   /* This container is needed to position the front and back side */
   .flip-card-inner {
-    position: relative;
     width: 100%;
     height: 100%;
     text-align: center;
@@ -329,6 +336,7 @@ p {
     transform-style: preserve-3d;
     border: 2px dotted var(--flip-backg-color);
     border-radius: 8px;
+    
   }
   
   /* Do an horizontal flip when you move the mouse over the flip box container */
@@ -533,7 +541,8 @@ p {
 
     .navbar {
         padding: 3rem 3em 3rem 3em;
-        
+        position: relative;
+        z-index: 1;
     }
 
     .nav-link:hover{
