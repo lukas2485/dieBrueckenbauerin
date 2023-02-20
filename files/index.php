@@ -21,13 +21,11 @@
         <!-- Overlay -->
         <div class="headerBild_Overlay"></div>
 
-        <div class="contentInner">
             <!-- BG-BridgeTrees -->
             <div class="headerBild_Text">
                 <h1>Mediation Hausensteiner</h1>
                 <h2>mit Gespür zur Einigkeit</h2>
             </div>
-        </div>
         
     </div>
 

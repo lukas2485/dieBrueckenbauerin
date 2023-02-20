@@ -41,6 +41,17 @@ h1 {
     font-size: 5rem;
 }
 
+.headerBild_Text h1{
+    font-size: 10rem;
+    line-height: 0.8;
+}
+
+.headerBild_Text h2{
+    font-size: 2.6rem;
+    font-weight: 400;
+    padding: 5rem 0 0 0;
+}
+
 h2 {
     color: var(--mainColorheadline);
     font-weight: bold;
@@ -97,16 +108,22 @@ p {
 .headerBild_Text {
     position: absolute;
     z-index: 0;
-    top: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     display: flex;
     flex-direction: column;
     justify-content: center;
-    border: 5px solid var(--mainColorheadline);
+    align-items: center;
     border-radius: 50%;
     width: 450px;
     height: 450px;
     margin:auto;
     text-align: center;
+    background-color: rgb(137, 154, 136, 0.3);
+    -webkit-box-shadow: 1px 2px 36px 14px rgba(54,70,53,0.65);
+    -moz-box-shadow: 1px 2px 36px 14px rgba(54,70,53,0.65);
+    box-shadow: 1px 2px 36px 14px rgba(54,70,53,0.65);
 }
 
 .hamburger {
@@ -139,6 +156,7 @@ p {
 
 .contentInner{
     padding-top: 120px;
+    
 }
 
 .nav-menu {
@@ -437,6 +455,18 @@ p {
 
 
 @media only screen and (max-width: 1000px) {
+
+
+    /* Kreis HeaderBild */
+    .headerBild_Text h1{
+        font-size: 7rem;
+    }
+    
+    .headerBild_Text h2{
+        font-size: 2rem;
+    }
+
+
     
     /* Container für Bild und Box */
     .contentInner{
@@ -512,6 +542,7 @@ p {
     
     .nav-menu.active {
         left: 0;
+        top: 130px;
         z-index: 3;
     }
 
