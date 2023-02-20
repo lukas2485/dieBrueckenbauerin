@@ -38,7 +38,8 @@
                                 <img src="../img/kontakt/map-pin-white.png" alt="">
                             </div>
                             <h4>ADRESSE</h4>
-                            <p>Birkenweg 200  Kopfing im Innkreis</p>
+                            <p>Birkenweg 200 <br>
+                             Kopfing im Innkreis</p>
                         </div>
 
                         <div class="element">
