@@ -101,6 +101,12 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    border: 5px solid var(--mainColorheadline);
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+    margin:auto;
+    text-align: center;
 }
 
 .hamburger {
@@ -237,10 +243,6 @@ p {
     right:0;
     z-index: -10;
     opacity: 0.2;
-}
-
-.loewenzahn svg{
-    
 }
 
 .loewenzahn path{
