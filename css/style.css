@@ -536,7 +536,7 @@ p {
     }
 
     .nav-link:hover{
-        color: var(--darkerColor);
+        color: var(--mainColorheadline);
     }
 
     
