@@ -41,6 +41,20 @@ h1 {
     font-size: 5rem;
 }
 
+h2 {
+    color: var(--mainColorheadline);
+    font-weight: bold;
+    font-size: 2.5rem;
+    padding: 1rem 0 0 10rem;
+    font-style: italic; 
+}
+
+h3 {
+    color: var(--mainColorheadline);
+    font-weight: bold;
+    font-size: 5rem;
+}
+
 .headerBild_Text h1{
     font-size: 10rem;
     line-height: 0.8;
@@ -52,13 +66,7 @@ h1 {
     padding: 5rem 0 0 0;
 }
 
-h2 {
-    color: var(--mainColorheadline);
-    font-weight: bold;
-    font-size: 2.5rem;
-    padding: 1rem 0 0 10rem;
-    font-style: italic; 
-}
+
 
 p {
     line-height: 1.5;
@@ -160,6 +168,7 @@ p {
 
 .contentBox{
     position:relative;
+    padding: 7rem 0;
 }
 
 .contentInner{

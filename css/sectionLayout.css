@@ -1,0 +1,77 @@
+.flex {
+    display:flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.sec1Item {
+    width: 48%;
+    max-width: 600px;
+}
+
+.section1 {
+    text-align: justify;
+    background-color: var(--mainColorheadline);
+    color: #fff;
+    width: 100%;
+}
+
+.section1Inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.section1 p{
+    font-weight: 300;
+}
+
+.section1 h3{
+    font-weight: 500;
+    padding-bottom: 3rem;
+    color: #fff;
+}
+
+
+
+
+
+
+.introColumn {
+    text-align: center;
+}
+
+.introColumn p{
+    margin: 3rem 0;
+    font-weight: 300;
+}
+
+
+.introColumn h3{
+    font-weight: 500;
+}
+
+#introButton {
+    font-weight: 500;
+    position: relative;
+    margin-top: 10rem;
+}
+
+#introButton:hover {
+    text-decoration: underline;
+}
+
+#introButton::after{
+    content: '';
+    border: 1px solid var(--mainColorheadline);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: -30px;
+    background-image: url(../img/svg/arrowDown.svg);
+    background-repeat: no-repeat;
+    background-size: 69%;
+    background-position: center;
+}
