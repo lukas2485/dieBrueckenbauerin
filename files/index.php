@@ -61,31 +61,33 @@
 
             <!-- Section 2 Spaltig -->
             <div class="section1">
-                <div class="section1Inner">
-                    <h3>Simone Hausensteiner</h3>
 
-                    <div class="flex ">
-                        <!-- Links -->
-                        <div class="sec1Item">
-                        <p>Mein Name ist Simone Hausensteiner. Ich bin in meinem Grundberuf Richterin. Ich lebe mit meinem Mann und
-                       meinen beiden Töchtern im Herzen des Innviertels, im schönen Kopfing.<br><br>
-                       In meiner Zeit als Richterin machte
-                       ich die Erfahrung, dass Konflikte in einem Gerichtsverfahren für beide Seiten oft nicht zufriedenstellend 
-                       beendet werden können. 
-                       <br><br>
-                       Viel erfüllender ist es für die Beteiligten meist, wenn es ihnen gemeinsam gelingt, 
-                       eine Lösung zu erarbeiten. Insbesondere, wenn sie auch in der Zukunft noch viele Berührungspunkte miteinander haben.</p>
+            <div class="contentInner">
+                    <div class="section1Inner">
+                        <h3>Simone Hausensteiner</h3>
 
-                        </div>
+                        <div class="flex ">
+                            <!-- Links -->
+                            <div class="sec1Item">
+                            <p>Mein Name ist Simone Hausensteiner. Ich bin in meinem Grundberuf Richterin. Ich lebe mit meinem Mann und
+                        meinen beiden Töchtern im Herzen des Innviertels, im schönen Kopfing.<br><br>
+                        In meiner Zeit als Richterin machte
+                        ich die Erfahrung, dass Konflikte in einem Gerichtsverfahren für beide Seiten oft nicht zufriedenstellend 
+                        beendet werden können. 
+                        <br><br>
+                        Viel erfüllender ist es für die Beteiligten meist, wenn es ihnen gemeinsam gelingt, 
+                        eine Lösung zu erarbeiten. Insbesondere, wenn sie auch in der Zukunft noch viele Berührungspunkte miteinander haben.</p>
 
-                        <!-- Rechts -->
-                        <div class="sec1Item align_right">
-                            <img src="../img/person.png" class="foto_right  " alt="">
+                            </div>
+
+                            <!-- Rechts -->
+                            <div class="sec1Item align_right">
+                                <img src="../img/person.png" class="foto_right  " alt="">
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-
 
         </div>
 
