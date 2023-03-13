@@ -62,8 +62,8 @@
             <!-- Section 2 Spaltig -->
             <div class="section1">
 
-            <div class="contentInner">
-                    <div class="section1Inner">
+            <div class="contentInner_TwoColumn">
+                    <div class="">
                         <h3>Simone Hausensteiner</h3>
 
                         <div class="flex ">

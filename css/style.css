@@ -466,6 +466,11 @@ p {
         max-width: 50%;
         margin: 0 auto;
     }
+
+    .contentInner_TwoColumn {
+        max-width: 70%;
+        margin: 0 auto;
+    }
 }
 
 
@@ -486,6 +491,11 @@ p {
     /* Container für Bild und Box */
     .contentInner{
         width: 95%;
+        margin: 0 auto;
+    }
+
+    .contentInner_TwoColumn {
+        max-width: 95%;
         margin: 0 auto;
     }
 

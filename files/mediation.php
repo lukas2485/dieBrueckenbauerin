@@ -141,26 +141,26 @@
         <!-- ContentBOX 2-->
         <div class="contentBox section1 ">
                 
+        <div class="contentInner_TwoColumn">
+                <!-- Section 2 Spaltig -->
+                <div class="section1">
+                    <div class="section1Inner">
+                        <h3>Einleitung</h3>
 
-            <!-- Section 2 Spaltig -->
-            <div class="section1">
-                <div class="section1Inner">
-                    <h3>Einleitung</h3>
+                        <div class="flex ">
+                            <!-- Links -->
+                            <div class="sec1Item">
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex ratione commodi quod recusandae molestias, sit facere aliquam, ea consectetur porro voluptatum tempora optio nobis asperiores eligendi illum cupiditate dolore quasi esse repellat id vitae. Laudantium, ea asperiores. Maiores, ullam atque! Laborum nostrum vero reprehenderit qui molestias impedit dolorem non a.</p>
+                            </div>
 
-                    <div class="flex ">
-                        <!-- Links -->
-                        <div class="sec1Item">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex ratione commodi quod recusandae molestias, sit facere aliquam, ea consectetur porro voluptatum tempora optio nobis asperiores eligendi illum cupiditate dolore quasi esse repellat id vitae. Laudantium, ea asperiores. Maiores, ullam atque! Laborum nostrum vero reprehenderit qui molestias impedit dolorem non a.</p>
-                        </div>
-
-                        <!-- Rechts -->
-                        <div class="sec1Item">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo dolore suscipit voluptates, non doloribus autem sint ab expedita aliquam consequatur sed adipisci quia deleniti accusamus aperiam odio molestias, amet quam repellat dolor. Quaerat commodi ipsa delectus a impedit necessitatibus dolores.</p>
+                            <!-- Rechts -->
+                            <div class="sec1Item">
+                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo dolore suscipit voluptates, non doloribus autem sint ab expedita aliquam consequatur sed adipisci quia deleniti accusamus aperiam odio molestias, amet quam repellat dolor. Quaerat commodi ipsa delectus a impedit necessitatibus dolores.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-
 
         </div>
         
