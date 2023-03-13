@@ -1,7 +1,7 @@
 
 * {
+    color: var(--lightColor);
     font-size: 1.3rem;
-    color: #ffffff;
 }
 
 .content{
@@ -91,7 +91,8 @@ hr {
     text-transform: uppercase;
 }
 
-h3 {
+.content h3 {
+    color: var(--lightColor);
     font-size: 4rem;
     font-weight: 500;
     word-wrap: break-word;

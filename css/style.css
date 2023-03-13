@@ -30,11 +30,6 @@ a {
     text-decoration: none;
 }
 
-.header{
-    border-bottom: 1px solid #E2E8F0;
-    z-index: 1;
-}
-
 h1 {
     color: var(--mainColorheadline);
     font-weight: bold;
@@ -53,6 +48,8 @@ h3 {
     color: var(--mainColorheadline);
     font-weight: bold;
     font-size: 5rem;
+    text-align: center;
+    margin-bottom: 3rem;
 }
 
 .headerBild_Text h1{
@@ -66,8 +63,6 @@ h3 {
     padding: 5rem 0 0 0;
 }
 
-
-
 p {
     line-height: 1.5;
 }
@@ -79,7 +74,8 @@ p {
 .header{
     position:sticky;
     top:0;    
-
+    z-index: 5;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
 }
 
 .headerBild hr {
@@ -90,7 +86,6 @@ p {
     border: 0;
 }
 
-
 .navbar {
     display: flex;
     width: 100%;
@@ -98,6 +93,7 @@ p {
     align-items: center;
     padding: 1rem 10em 1rem 10em;
     background-color: var(--darkerColor);
+    
 }
 
 .headerBild {
@@ -171,11 +167,6 @@ p {
     padding: 7rem 0;
 }
 
-.contentInner{
-    padding-top: 120px;
-    
-}
-
 .nav-menu {
     display: flex;
     justify-content: space-between;
@@ -212,7 +203,6 @@ p {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    
 }
 
 .navHome{
@@ -220,13 +210,10 @@ p {
     justify-content: space-between;
     align-items: center;
     width: 20%;
-    
-    
 }
 .navHome p{
     padding-top: 1rem;
     font-size: 1.5rem;  
-    
 }
 
 
@@ -284,6 +271,16 @@ p {
     fill: var(--mainColorheadline)!important;
 }
 
+
+/* Über mich */
+.align_right {
+    text-align: right;
+}
+
+.foto_right {
+    height: auto;
+    width: 60%;
+}
 
 
 /* Container für Bild und Box */

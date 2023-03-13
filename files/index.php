@@ -40,11 +40,15 @@
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
                 <div class="introColumn">
-                    <h3>Lorem ipsum dolor sit, amet consectetur adipisicing.</h3>
+                    <h3>Jeder Mensch ist einzigartig.</h3>
 
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi nisi temporibus esse, ullam blanditiis, cupiditate fugit facilis natus, itaque voluptatem expedita incidunt odit aliquam non iure qui voluptatibus quia officiis id quibusdam similique vitae fugiat.</p>
+                    <p>Eine unverwechselbare Summe aus der Familie und dem sozialen Umfeld, in dem er aufwächst und lebt und den Erfahrungen, die er in seinem Leben gemacht hat. In dieser Einzigartigkeit können wir uns alle gegenseitig bereichern.
+                    <br>
+                    Oft ist es uns aber nicht möglich, diese Besonderheit unseres Gegenübers zu erkennen. Wir sind zu sehr verletzt, als dass es uns in dem Moment möglich wäre, uns in den anderen hineinzuversetzen.
+                    <br><br>    
+                    Durch meine Kompetenz als Mediatorin möchte ich euch gerne dabei unterstützen, einen Weg zu finden, wieder eine Brücke zum anderen aufzubauen, damit ihr euch wieder mehr miteinander verbunden fühlt und Gespräche mit gegenseitiger Wertschätzung möglich sind.
+                    </p>
 
-                    <a href="#" id="introButton">Mehr anzeigen</a>
 
                 </div>
             </div>
@@ -58,17 +62,25 @@
             <!-- Section 2 Spaltig -->
             <div class="section1">
                 <div class="section1Inner">
-                    <h3>Einleitung</h3>
+                    <h3>Simone Hausensteiner</h3>
 
                     <div class="flex ">
                         <!-- Links -->
                         <div class="sec1Item">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex ratione commodi quod recusandae molestias, sit facere aliquam, ea consectetur porro voluptatum tempora optio nobis asperiores eligendi illum cupiditate dolore quasi esse repellat id vitae. Laudantium, ea asperiores. Maiores, ullam atque! Laborum nostrum vero reprehenderit qui molestias impedit dolorem non a.</p>
+                        <p>Mein Name ist Simone Hausensteiner. Ich bin in meinem Grundberuf Richterin. Ich lebe mit meinem Mann und
+                       meinen beiden Töchtern im Herzen des Innviertels, im schönen Kopfing.<br><br>
+                       In meiner Zeit als Richterin machte
+                       ich die Erfahrung, dass Konflikte in einem Gerichtsverfahren für beide Seiten oft nicht zufriedenstellend 
+                       beendet werden können. 
+                       <br><br>
+                       Viel erfüllender ist es für die Beteiligten meist, wenn es ihnen gemeinsam gelingt, 
+                       eine Lösung zu erarbeiten. Insbesondere, wenn sie auch in der Zukunft noch viele Berührungspunkte miteinander haben.</p>
+
                         </div>
 
                         <!-- Rechts -->
-                        <div class="sec1Item">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illo dolore suscipit voluptates, non doloribus autem sint ab expedita aliquam consequatur sed adipisci quia deleniti accusamus aperiam odio molestias, amet quam repellat dolor. Quaerat commodi ipsa delectus a impedit necessitatibus dolores.</p>
+                        <div class="sec1Item align_right">
+                            <img src="../img/person.png" class="foto_right  " alt="">
                         </div>
                     </div>
                 </div>
@@ -76,7 +88,29 @@
 
 
         </div>
+
+
+        <!-- ContentBOX 3-->
+        <div class="contentBox">
+            <!-- InnerContent -->
+            <div class="contentInner">
+                <!-- Section 2 Spaltig -->
+                <div class="introColumn">
+                    <h3>Motivation</h3>
+
+                    <p>Eine Mediation ist meiner Erfahrung nach eine wertvolle, kostengünstige Alternative zu einem Gerichtsverfahren. Aufgrund der gemeinsamen Erarbeitung einer Lösung gibt es nur "Gewinner" und eine gute Gesprächsbasis wird wiederhergestellt.
+                            Diese Erkenntnis war für mich auch der entscheidende Anstoß für meinen Entschluss, künftig als Mediatorin arbeiten zu wollen. Mir liegt eine Gesellschaft am Herzen, in der eine Atmosphäre von gegenseitigem Wohlwollen, Verständnis und Verbundenheit herrscht.
+                            <br><br>
+                            Ich freue mich auf Sie.</p>
+
+
+                </div>
+            </div>
+        </div>
         
+        
+
+
     </div>        
 
    

@@ -12,7 +12,7 @@
 .section1 {
     text-align: justify;
     background-color: var(--mainColorheadline);
-    color: #fff;
+    color: var(--lightColor);
     width: 100%;
 }
 
@@ -29,24 +29,20 @@
 
 .section1 h3{
     font-weight: 500;
-    padding-bottom: 3rem;
-    color: #fff;
+    color: var(--lightColor);
 }
-
-
-
-
-
 
 .introColumn {
     text-align: center;
 }
 
 .introColumn p{
-    margin: 3rem 0;
     font-weight: 300;
 }
 
+.introColumn p + a{
+    padding-bottom: 3rem;
+}
 
 .introColumn h3{
     font-weight: 500;
@@ -55,7 +51,6 @@
 #introButton {
     font-weight: 500;
     position: relative;
-    margin-top: 10rem;
 }
 
 #introButton:hover {
