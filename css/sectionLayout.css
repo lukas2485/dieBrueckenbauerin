@@ -9,6 +9,14 @@
     justify-content: center;
 }
 
+.flex_start {
+    align-items: flex-start;
+}
+
+.column_gap {
+    column-gap: 4rem;
+}
+
 .sec1Item {
     width: 48%;
     max-width: 600px;

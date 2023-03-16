@@ -147,7 +147,7 @@
                     <div class="section1Inner">
                         <h3>Einleitung</h3>
 
-                        <div class="flex ">
+                        <div class="flex align_center column_gap flex_start">
                             <!-- Links -->
                             <div class="sec1Item">
                                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex ratione commodi quod recusandae molestias, sit facere aliquam, ea consectetur porro voluptatum tempora optio nobis asperiores eligendi illum cupiditate dolore quasi esse repellat id vitae. Laudantium, ea asperiores. Maiores, ullam atque! Laborum nostrum vero reprehenderit qui molestias impedit dolorem non a.</p>
