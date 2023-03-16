@@ -4,6 +4,11 @@
     flex-direction: row;
 }
 
+.align_center {
+    align-items: center;
+    justify-content: center;
+}
+
 .sec1Item {
     width: 48%;
     max-width: 600px;

@@ -66,7 +66,7 @@
                     <div class="">
                         <h3>Simone Hausensteiner</h3>
 
-                        <div class="flex ">
+                        <div class="flex align_center">
                             <!-- Links -->
                             <div class="sec1Item">
                             <p>Mein Name ist Simone Hausensteiner. Ich bin in meinem Grundberuf Richterin. Ich lebe mit meinem Mann und
