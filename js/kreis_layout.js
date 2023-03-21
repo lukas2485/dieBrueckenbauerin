@@ -1,51 +1,35 @@
-function hoverRot() {
-	document.getElementById("side1").classList.add("visible");
+function hoverRot(event) {
+	// Unsichtbares Element auswählen
+  const parent = event.currentTarget.parentNode;
+  const sideCont = parent.parentNode.querySelector('.flick');
+  // Füge der sideCont-Klasse das sichtbare Attribut hinzu
+  sideCont.classList.add("visible");
+  
+  
 }
 
-function hoverRotStop(){
-	document.getElementById("side1").classList.remove("visible");
+function hoverRotStop(event){
+	// Unsichtbares Element auswählen
+  const parent = event.currentTarget.parentNode;
+  const sideCont = parent.parentNode.querySelector('.flick');
+  // Füge der timeConSide-Klasse das sichtbare Attribut hinzu
+  sideCont.classList.remove("visible");
 }
 
-
-function hoverRot2() {
-	document.getElementById("side2").classList.add("visible");
-}
-
-function hoverRotStop2(){
-	document.getElementById("side2").classList.remove("visible");
-}
-
-
-function hoverRot3() {
-	document.getElementById("side3").classList.add("visible");
-}
-
-function hoverRotStop3(){
-	document.getElementById("side3").classList.remove("visible");
-}
-
-function hoverRot4() {
-	document.getElementById("side4").classList.add("visible");
-}
-
-function hoverRotStop4(){
-	document.getElementById("side4").classList.remove("visible");
-}
 
 function setup(){
+      
+        const kreise = document.querySelectorAll('.circle');
+        
+        kreise.forEach(kreis => {
+          kreis.addEventListener('mouseover', hoverRot);
+          kreis.addEventListener('mouseout', hoverRotStop);
+          
+            console.log('Eventlistener angelegt');
 
-    	document.getElementById("circle1").addEventListener("mouseover", hoverRot);
-        document.getElementById("circle1").addEventListener("mouseout", hoverRotStop);
-
-        document.getElementById("circle2").addEventListener("mouseover", hoverRot2);
-        document.getElementById("circle2").addEventListener("mouseout", hoverRotStop2);
-
-        document.getElementById("circle3").addEventListener("mouseover", hoverRot3);
-        document.getElementById("circle3").addEventListener("mouseout", hoverRotStop3);
-
-        document.getElementById("circle4").addEventListener("mouseover", hoverRot4);
-        document.getElementById("circle4").addEventListener("mouseout", hoverRotStop4);
-    
+        });
+        
+        
   }
 	
 

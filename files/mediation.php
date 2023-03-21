@@ -40,7 +40,7 @@
                     <!-- Zeile -->
                     <div class="timeCont_row">
 
-                        <div class="timeConSide" id="side1">
+                        <div class="timeConSide flick" id="side1">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
                             <h4>SICHER</h4>
@@ -71,7 +71,7 @@
                             </div>
                         </div>
 
-                        <div class="timeConSide" id="side2">
+                        <div class="timeConSide flick" id="side2">
                             <hr id="right_content">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
@@ -86,7 +86,7 @@
                     <!-- Zeile -->
                     <div class="timeCont_row">
 
-                        <div class="timeConSide" id="side3">
+                        <div class="timeConSide flick" id="side3">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
                             <h4>GÜNSTIG</h4>
@@ -118,7 +118,7 @@
                             </div>
                         </div>
 
-                        <div class="timeConSide" id="side4">
+                        <div class="timeConSide flick" id="side4">
                             <hr id="right_content">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
