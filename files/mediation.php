@@ -130,6 +130,105 @@
                         </div>
 
                     </div>
+
+
+                    <!-- Zeile -->
+                    <div class="timeCont_row">
+
+                        <div class="timeConSide flick" id="side3">
+                            <div class="left_content">
+                            <img src="../img/abschlusskappe.png" alt="">
+                            <h4>FREIWILLIG</h4>
+                            <p>Die Parteien können den Prozess jederzeit beenden.</p>
+                            </div>
+
+                            <hr id="right_content">
+                        </div>
+
+                        <div class="timeRow_center">
+                            <div class="circle" id="circle3">
+                            <h3>FREIWILLIG</h3>
+                            </div>
+                        </div>
+
+                        <div class="timeConSide"></div>
+
+                    </div>
+
+
+                    <!-- Zeile -->
+                    <div class="timeCont_row">
+
+                        <div class="timeConSide" > </div>
+
+                        <div class="timeRow_center">
+                            <div class="circle" id="circle4">
+                            <h3>EIGENVERANTWORTLICH</h3>
+                            </div>
+                        </div>
+
+                        <div class="timeConSide flick" id="side4">
+                            <hr id="right_content">
+                            <div class="left_content">
+                            <img src="../img/abschlusskappe.png" alt="">
+                            <h4>EIGENVERANTWORTLICH</h4>
+                            <p>Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte, die sie miteinander haben, selbst zu lösen. Die Mediatorin fördert die Lösungsfindung und ist verantwortlich für den Ablauf.</p>
+                            </div>
+
+                            
+                        </div>
+
+                    </div>
+
+
+
+                    <!-- Zeile -->
+                    <div class="timeCont_row">
+
+                        <div class="timeConSide flick" id="side3">
+                            <div class="left_content">
+                            <img src="../img/abschlusskappe.png" alt="">
+                            <h4>VERSCHWIEGENHEIT</h4>
+                            <p>Gesetzliche Verpflichtung der Mediatorin zu Vertraulichkeit und absoluter Verschwiegenheit.</p>
+                            </div>
+
+                            <hr id="right_content">
+                        </div>
+
+                        <div class="timeRow_center">
+                            <div class="circle" id="circle3">
+                            <h3>VERSCHWIEGENHEIT</h3>
+                            </div>
+                        </div>
+
+                        <div class="timeConSide"></div>
+
+                    </div>
+
+
+                    <!-- Zeile -->
+                    <div class="timeCont_row">
+
+                        <div class="timeConSide" > </div>
+
+                        <div class="timeRow_center">
+                            <div class="circle" id="circle4">
+                            <h3>ALLPARTEILICHKEIT</h3>
+                            </div>
+                        </div>
+
+                        <div class="timeConSide flick" id="side4">
+                            <hr id="right_content">
+                            <div class="left_content">
+                            <img src="../img/abschlusskappe.png" alt="">
+                            <h4>ALLPARTEILICHKEIT</h4>
+                            <p>Die Mediatorin ist allen Parteien gleichermaßen verpflichtet.</p>
+                            </div>
+
+                            
+                        </div>
+
+                    </div>
                     
                     <!-- Hintergrundlinie -->
                     <div class="bg-line"></div>
