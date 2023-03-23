@@ -162,8 +162,9 @@
                         <div class="timeConSide" > </div>
 
                         <div class="timeRow_center">
-                            <div class="circle" id="circle4">
-                            <h3>EIGENVERANTWORTLICH</h3>
+                            <div class="circle">
+                            <h3><span>EIGEN</span><br>
+                                VERANTWORTLICH</h3>
                             </div>
                         </div>
 
@@ -213,7 +214,7 @@
 
                         <div class="timeRow_center">
                             <div class="circle" id="circle4">
-                            <h3>ALLPARTEILICHKEIT</h3>
+                            <h3><span>ALL</span><br>PARTEILICHKEIT</h3>
                             </div>
                         </div>
 

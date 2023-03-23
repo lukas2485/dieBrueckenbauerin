@@ -10,6 +10,8 @@ function hoverRot(event) {
   // Kreis verkleinern
   target.style.height = "140px";
   target.style.width = "140px";
+  target.style.backgroundColor = "#364635";
+  target.style.overflow = "hidden";
 }
 
 function hoverRotStop(event){
@@ -22,8 +24,9 @@ function hoverRotStop(event){
 
 
   // Kreis verkleinern
-  target.style.height = "160px";
-  target.style.width = "160px";
+  target.style.height = "190px";
+  target.style.width = "190px";
+  target.style.backgroundColor = "#f2f0e1";
 }
 
 
