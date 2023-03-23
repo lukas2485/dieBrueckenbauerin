@@ -49,8 +49,18 @@
                   <div class="flip-card-inner">
           
                     <div class="flip-card-front">
-                      <h1>Gespräch</h1>
-                      <img src="../img/bubbleIcon.png" alt="">
+
+
+                      <div class="frontImg">
+                        <div id="frontImg2"></div>
+                      </div>
+
+                      <div class="frontBottom">
+                        <hr>
+                        <h1>Gespräch</h1>
+                      </div>
+
+                      
                     </div>
           
                     <div class="flip-card-back">
