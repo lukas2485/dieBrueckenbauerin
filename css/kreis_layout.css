@@ -35,7 +35,7 @@ font-family: 'Open Sans', sans-serif;
   width: 160px;
   background-color: var(--lightColor);
   position: relative;
-
+  transition: all 800ms;
 }
 
 .timeConSide {
