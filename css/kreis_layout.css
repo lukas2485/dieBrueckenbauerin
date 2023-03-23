@@ -60,7 +60,7 @@ font-family: 'Open Sans', sans-serif;
 
 .bg-line {
   width: 4px;
-  height: 70%;
+  height: 90%;
   background-color: var(--darkerColor);
   position: absolute;
   z-index: -5;
