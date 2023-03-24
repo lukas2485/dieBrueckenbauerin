@@ -19,80 +19,91 @@
     <div class="content">
     
    
-    <div class="headline">
+      <div class="headline">
+                  
+                  <h1>Leistungen</h1>
+          
+      </div>
+          
+      <div class="flip-card-container">
                 
-                <h1>Leistungen</h1>
-        
-            </div>
-        
-            <div class="flip-card-container">
-                <div class="flip-card">
-                  <div class="flip-card-inner">
-          
-                    <div class="flip-card-front">
-                      <h1>Gespräch</h1>
-                      <img src="../img/bubbleIcon.png" alt="">
-                    </div>
-          
-                    <div class="flip-card-back">
-                      
-                      <div class="card-back-text">
-                        <p>Lorem.</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam omnis sunt debitis consequuntur distinctio culpa, nihil voluptates suscipit. Laborum, quibusdam.</p>
-                      </div>
-                    </div>
-          
-                  </div>
-                </div>
-          
-                <div class="flip-card">
-                  <div class="flip-card-inner">
-          
-                    <div class="flip-card-front">
+                  
+            
+        <div class="flip-card">
+          <div class="flip-card-inner">
 
-
-                      <div class="frontImg">
-                        <div class="frontImg_overlay"><h1>Gespräch</h1></div>
-                      </div>
-                
-                      <div class="frontBottom">
-                        <hr>
-                        <h4>Lorem ipsum dolor sit, amet consectetur adipisicing.</h4>
-                      </div>
-
-                      
-                    </div>
-          
-                    <div class="flip-card-back">
-                      
-                      <div class="card-back-text">
-                        <p>Lorem.</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam omnis sunt debitis consequuntur distinctio culpa, nihil voluptates suscipit. Laborum, quibusdam.</p>
-                      </div>
-                    </div>
-          
-                  </div>
-                </div>
-          
-                <div class="flip-card">
-                  <div class="flip-card-inner">
-          
-                    <div class="flip-card-front">
-                      <h1>Gespräch</h1>
-                      <img src="../img/bubbleIcon.png" alt="">
-                    </div>
-          
-                    <div class="flip-card-back">
-                      
-                      <div class="card-back-text">
-                        <p>Lorem.</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam omnis sunt debitis consequuntur distinctio culpa, nihil voluptates suscipit. Laborum, quibusdam.</p>
-                      </div>
-                    </div>
-          
-                  </div>
-                </div>
+            <div class="flip-card-front">
+              <div class="frontImg">
+                <div class="frontImg_overlay"><h1>Gespräch</h1></div>
               </div>
+        
+              <div class="frontBottom">
+                <hr>
+                <h4>Lorem ipsum dolor sit, amet consectetur adipisicing.</h4>
+              </div>
+            </div>
+
+            <div class="flip-card-back">
+              <div class="card-back-text">
+                <p>Lorem.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam omnis sunt debitis consequuntur distinctio culpa, nihil voluptates suscipit. Laborum, quibusdam.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="flip-card">
+          <div class="flip-card-inner">
+
+            <div class="flip-card-front">
+              <div class="frontImg">
+                <div class="frontImg_overlay"><h1>Gespräch</h1></div>
+              </div>
+        
+              <div class="frontBottom">
+                <hr>
+                <h4>Lorem ipsum dolor sit, amet consectetur adipisicing.</h4>
+              </div>
+            </div>
+
+            <div class="flip-card-back">
+              <div class="card-back-text">
+                <p>Lorem.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam omnis sunt debitis consequuntur distinctio culpa, nihil voluptates suscipit. Laborum, quibusdam.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div class="flip-card">
+          <div class="flip-card-inner">
+
+            <div class="flip-card-front">
+              <div class="frontImg">
+                <div class="frontImg_overlay"><h1>Gespräch</h1></div>
+              </div>
+        
+              <div class="frontBottom">
+                <hr>
+                <h4>Lorem ipsum dolor sit, amet consectetur adipisicing.</h4>
+              </div>
+            </div>
+
+            <div class="flip-card-back">
+              <div class="card-back-text">
+                <p>Lorem.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam omnis sunt debitis consequuntur distinctio culpa, nihil voluptates suscipit. Laborum, quibusdam.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+            
+  
+      </div>
 
 
 
