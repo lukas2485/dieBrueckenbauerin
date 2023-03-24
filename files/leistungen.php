@@ -52,7 +52,6 @@
 
 
                       <div class="frontImg">
-                        <div id="frontImg2"></div>
                       </div>
 
                       <div class="frontBottom">
