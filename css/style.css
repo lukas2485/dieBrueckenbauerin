@@ -357,12 +357,15 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 8px;
     -webkit-box-shadow: 0px 6px 13px 6px rgba(0,0,0,0.13);
     -moz-box-shadow: 0px 6px 13px 6px rgba(0,0,0,0.13);
     box-shadow: 0px 6px 13px 6px rgba(0,0,0,0.13);
   }
 
+  /* Style the front side (fallback if image is missing) */
+  .flip-card-front, .flip-card-back, .frontImg, .frontImg_overlay {
+    border-radius: 10px;
+  }
   /* Style the front side (fallback if image is missing) */
   .flip-card-front {
     background-color: var(--flip-color);
@@ -381,8 +384,16 @@ p {
   
   .flip-card-front h1 {
     font-family: 'Dancing Script', cursive;
-    color: var(--flip-backg-color);
+    color: var(--mainColorheadline);
     font-size: 1.8em;
+    font-weight: 800;
+  }
+
+  .flip-card-front h4 {
+    color: var(--mainColorheadline);
+    font-size: 1.4rem;
+    font-weight: 600;
+    line-height: 1.4;
   }
   
   .card-back-text{
@@ -398,14 +409,24 @@ p {
   .frontImg{
     width: 90%;
     height: 65%;
-    background-color: #000;
+    position: relative;
     background-image: url(../img/flipCard/haende.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    border-radius: 10px;
     margin: 15px auto;
-    opacity: 0.75;
+  }
+
+  .frontImg_overlay{
+    background-color: rgba(255, 255, 255, 0.65);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 
   .frontBottom{
@@ -418,6 +439,7 @@ p {
   .flip-card hr {
     width: 20px;
     height: 2px;
+    margin-bottom: 10px;
     border: none;
     background-color: var(--darkerColor);
   }

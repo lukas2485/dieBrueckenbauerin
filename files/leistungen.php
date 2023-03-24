@@ -52,11 +52,12 @@
 
 
                       <div class="frontImg">
+                        <div class="frontImg_overlay"><h1>Gespräch</h1></div>
                       </div>
-
+                
                       <div class="frontBottom">
                         <hr>
-                        <h1>Gespräch</h1>
+                        <h4>Lorem ipsum dolor sit, amet consectetur adipisicing.</h4>
                       </div>
 
                       
