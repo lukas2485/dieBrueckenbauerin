@@ -399,6 +399,20 @@ p {
   .card-back-text{
     width: 80%;
   }
+
+  .flip-card-back .button {
+    margin-top: 20px;
+  }
+
+  .flip-card-back a {
+    border: 2px solid var(--mainColorheadline);
+    border-radius: 10px;
+    background-color: var(--lightColor);
+    color: var(--mainColorheadline);
+    padding: 3px 10px;
+    margin-top: 20px;
+    text-decoration: none;
+}
   
   .flip-card-front img{
     margin-top: 5px;

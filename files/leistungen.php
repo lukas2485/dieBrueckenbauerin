@@ -47,6 +47,11 @@
               <div class="card-back-text">
                 <p>Lorem.</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam omnis sunt debitis consequuntur distinctio culpa, nihil voluptates suscipit. Laborum, quibusdam.</p>
+
+                <div class="button">
+                  <a href="#">mehr</a>
+                </div>
+                
               </div>
             </div>
           </div>
