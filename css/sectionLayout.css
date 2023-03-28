@@ -24,8 +24,6 @@
 
 .section1 {
     text-align: justify;
-    background-color: var(--mainColorheadline);
-    color: var(--lightColor);
     width: 100%;
 }
 
@@ -36,29 +34,42 @@
     flex-direction: column;
 }
 
-.section1 p{
-    font-weight: 300;
+.dark_section {
+    color: var(--lightColor);
+    background-color: var(--mainColorheadline);
 }
 
-.section1 h3{
-    font-weight: 500;
+.light_section {
+    color: var(--mainColorheadline);
+    background-color: var(--lightColor);
+}
+
+.dark_section h3 {
     color: var(--lightColor);
+}
+
+.contentBox li {
+    position: relative;
+    padding-bottom: 40px;
+}
+
+.contentBox li::before {
+    content: '';
+    height: 10px;
+    width: 10px;
+    border: 1px solid var(--mainColorheadline);
+    border-radius: 50%;
+    position: absolute;
+    bottom: 12px;
+    left: 50%;
 }
 
 .introColumn {
     text-align: center;
 }
 
-.introColumn p{
-    font-weight: 300;
-}
-
-.introColumn p + a{
+.introColumn p + a {
     padding-bottom: 3rem;
-}
-
-.introColumn h3{
-    font-weight: 500;
 }
 
 #introButton {

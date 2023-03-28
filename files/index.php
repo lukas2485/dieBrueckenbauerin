@@ -35,7 +35,7 @@
     <div class="content">
 
         <!-- ContentBOX 1-->
-        <div class="contentBox">
+        <div class="contentBox light_section">
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
@@ -56,7 +56,7 @@
 
 
         <!-- ContentBOX 2-->
-        <div class="contentBox section1 ">
+        <div class="contentBox section1 dark_section">
                 
 
             <!-- Section 2 Spaltig -->
@@ -91,7 +91,7 @@
 
 
         <!-- ContentBOX 3-->
-        <div class="contentBox">
+        <div class="contentBox light_section">
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->

@@ -66,6 +66,7 @@ h3 {
 
 p {
     line-height: 1.5;
+    font-weight: 300;
 }
 
 .headline{
@@ -360,9 +361,9 @@ p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    -webkit-box-shadow: 0px 6px 13px 6px rgba(0,0,0,0.13);
-    -moz-box-shadow: 0px 6px 13px 6px rgba(0,0,0,0.13);
-    box-shadow: 0px 6px 13px 6px rgba(0,0,0,0.13);
+    -webkit-box-shadow: 0px 4px 9px 9px rgba(101,130,100,0.2);
+    -moz-box-shadow: 0px 4px 9px 9px rgba(101,130,100,0.2);
+    box-shadow: 0px 4px 9px 9px rgba(101,130,100,0.2);
 }
 
 /* Style the front side (fallback if image is missing) */
