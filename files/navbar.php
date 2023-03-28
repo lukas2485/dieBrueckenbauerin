@@ -16,7 +16,7 @@
             
             <ul class="nav-menu">
                 <li class="nav-item">
-                    <a href="index.php" class="nav-link">Home</a>
+                    <a href="index.php" class="nav-link"><img src="../img/svg/home.svg" width="30" height="auto"></a>
                 </li>
                 <li class="nav-item">
                     <a href="mediation.php" class="nav-link">Mediation</a>

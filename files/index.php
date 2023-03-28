@@ -43,7 +43,7 @@
                     <h3>Jeder Mensch ist einzigartig.</h3>
 
                     <p>Eine unverwechselbare Summe aus der Familie und dem sozialen Umfeld, in dem er aufwächst und lebt und den Erfahrungen, die er in seinem Leben gemacht hat. In dieser Einzigartigkeit können wir uns alle gegenseitig bereichern.
-                    <br>
+                    <br><br>
                     Oft ist es uns aber nicht möglich, diese Besonderheit unseres Gegenübers zu erkennen. Wir sind zu sehr verletzt, als dass es uns in dem Moment möglich wäre, uns in den anderen hineinzuversetzen.
                     <br><br>    
                     Durch meine Kompetenz als Mediatorin möchte ich euch gerne dabei unterstützen, einen Weg zu finden, wieder eine Brücke zum anderen aufzubauen, damit ihr euch wieder mehr miteinander verbunden fühlt und Gespräche mit gegenseitiger Wertschätzung möglich sind.
@@ -69,14 +69,12 @@
                         <div class="flex align_center">
                             <!-- Links -->
                             <div class="sec1Item">
-                            <p>Mein Name ist Simone Hausensteiner. Ich bin in meinem Grundberuf Richterin. Ich lebe mit meinem Mann und
-                        meinen beiden Töchtern im Herzen des Innviertels, im schönen Kopfing.<br><br>
-                        In meiner Zeit als Richterin machte
-                        ich die Erfahrung, dass Konflikte in einem Gerichtsverfahren für beide Seiten oft nicht zufriedenstellend 
-                        beendet werden können. 
-                        <br><br>
-                        Viel erfüllender ist es für die Beteiligten meist, wenn es ihnen gemeinsam gelingt, 
-                        eine Lösung zu erarbeiten. Insbesondere, wenn sie auch in der Zukunft noch viele Berührungspunkte miteinander haben.</p>
+                                <p>Mein Name ist Simone Hausensteiner. Ich bin in meinem Grundberuf Richterin. Ich lebe mit meinem Mann und meinen beiden Töchtern im Herzen des Innviertels, im schönen Kopfing.
+                                    <br><br>
+                                    In meiner Zeit als Richterin machte ich die Erfahrung, dass Konflikte in einem Gerichtsverfahren für beide Seiten oft nicht zufriedenstellend beendet werden können. 
+                                    <br><br>
+                                    Viel erfüllender ist es für die Beteiligten meist, wenn es ihnen gemeinsam gelingt, eine Lösung zu erarbeiten. Insbesondere, wenn sie auch in der Zukunft noch viele Berührungspunkte miteinander haben.
+                                </p>
 
                             </div>
 
@@ -101,9 +99,11 @@
                     <h3>Motivation</h3>
 
                     <p>Eine Mediation ist meiner Erfahrung nach eine wertvolle, kostengünstige Alternative zu einem Gerichtsverfahren. Aufgrund der gemeinsamen Erarbeitung einer Lösung gibt es nur "Gewinner" und eine gute Gesprächsbasis wird wiederhergestellt.
-                            Diese Erkenntnis war für mich auch der entscheidende Anstoß für meinen Entschluss, künftig als Mediatorin arbeiten zu wollen. Mir liegt eine Gesellschaft am Herzen, in der eine Atmosphäre von gegenseitigem Wohlwollen, Verständnis und Verbundenheit herrscht.
-                            <br><br>
-                            Ich freue mich auf Sie.</p>
+<br><br>
+Diese Erkenntnis war für mich auch der enscheidende Anstoß für meinen Entschluss, künftig als Mediatorin arbeiten zu wollen. Mir liegt eine Gesellschaft am Herzen, in der eine Atmosphäre von gegenseitigem Wohlwollen, Verständnis und Verbundenheit herrscht.
+<br><br>
+Ich freue mich auf Sie.
+</p>
 
 
                 </div>
