@@ -43,8 +43,8 @@
                         <div class="timeConSide flick" id="side1">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
-                            <h4>SICHER</h4>
-                            <p>Kein ungewisser Ausgang - im Gegensatz zu einem gerichtlichen Verfahren haben die Parteien immer die volle Kontrolle über den Prozess. Keine Gerichtsverhandlung, sondern eine geschützte und vertrauliche Atmosphäre</p>
+                            <h4>VOLLE KONTROLLE</h4>
+                            <p>Kein ungewisser Ausgang - im Gegensatz zu einem gerichtlichen Verfahren haben die Parteien immer die volle Kontrolle über den Prozess. Keine Gerichtsverhandlung, sondern eine geschützte und vertrauliche Atmosphäre.</p>
                             </div>
 
                             <hr id="right_content">
@@ -52,7 +52,9 @@
 
                         <div class="timeRow_center">
                             <div class="circle" id="circle1">
-                            <h3>SICHER</h3>
+                            <h3>
+                                <span>VOLLE</span> <br>
+                                      KONTROLLE</h3>
                             </div>
                         </div>
 
@@ -67,7 +69,7 @@
 
                         <div class="timeRow_center">
                             <div class="circle" id="circle2">
-                            <h3>SCHNELL</h3>
+                            <h3>FREIWILLIG</h3>
                             </div>
                         </div>
 
@@ -75,8 +77,8 @@
                             <hr id="right_content">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
-                            <h4>SCHNELL</h4>
-                            <p>Es ist schneller abgeschlossen als ein Gerichtsverfahren</p>
+                            <h4>FREIWILLIG</h4>
+                            <p>Die Parteien können den Prozess jederzeit beenden.</p>
                             </div>
 
                         </div>
@@ -89,8 +91,8 @@
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
-                            <h4>GÜNSTIG</h4>
-                            <p>Es ist kostengünstiger, weil geringere/keine Gerichtskosten und Anwaltskosten anfallen</p>
+                            <h4>SCHNELL</h4>
+                            <p>Es ist schneller abgeschlossen als ein Gerichtsverfahren.</p>
                             </div>
 
                             <hr id="right_content">
@@ -98,7 +100,7 @@
 
                         <div class="timeRow_center">
                             <div class="circle" id="circle3">
-                            <h3>GÜNSTIG</h3>
+                            <h3>SCHNELL</h3>
                             </div>
                         </div>
 
@@ -138,8 +140,8 @@
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
-                            <h4>FREIWILLIG</h4>
-                            <p>Die Parteien können den Prozess jederzeit beenden.</p>
+                            <h4>SELBSTBESTIMMT</h4>
+                            <p>Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte, die sie miteinander haben, selbst zu lösen. Die Mediatorin fördert die Lösungsfindung und ist verantwortlich für den Ablauf.</p>
                             </div>
 
                             <hr id="right_content">
@@ -147,7 +149,7 @@
 
                         <div class="timeRow_center">
                             <div class="circle" id="circle3">
-                            <h3>FREIWILLIG</h3>
+                            <h3>SELBSTBESTIMMT</h3>
                             </div>
                         </div>
 
@@ -163,8 +165,7 @@
 
                         <div class="timeRow_center">
                             <div class="circle">
-                            <h3><span>EIGEN</span><br>
-                                VERANTWORTLICH</h3>
+                            <h3>VERSCHWIEGENHEIT</h3>
                             </div>
                         </div>
 
@@ -172,8 +173,8 @@
                             <hr id="right_content">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
-                            <h4>EIGENVERANTWORTLICH</h4>
-                            <p>Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte, die sie miteinander haben, selbst zu lösen. Die Mediatorin fördert die Lösungsfindung und ist verantwortlich für den Ablauf.</p>
+                            <h4>VERSCHWIEGENHEIT</h4>
+                            <p>Gesetzliche Verpflichtung der Mediatorin zu Vertraulichkeit und absoluter Verschwiegenheit. Auch keine Zeugenaussage vor Gericht.</p>
                             </div>
 
                             
@@ -189,8 +190,8 @@
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
-                            <h4>VERSCHWIEGENHEIT</h4>
-                            <p>Gesetzliche Verpflichtung der Mediatorin zu Vertraulichkeit und absoluter Verschwiegenheit.</p>
+                            <h4>ALLPARTEILICHKEIT</h4>
+                            <p>Die Mediatorin ist allen Parteien gleichermaßen verpflichtet.</p>
                             </div>
 
                             <hr id="right_content">
@@ -198,7 +199,7 @@
 
                         <div class="timeRow_center">
                             <div class="circle" id="circle3">
-                            <h3>VERSCHWIEGENHEIT</h3>
+                            <h3>ALLPARTEILICHKEIT</h3>
                             </div>
                         </div>
 
@@ -206,7 +207,7 @@
 
                     </div>
 
-
+                    
                     <!-- Zeile -->
                     <div class="timeCont_row">
 
@@ -214,7 +215,7 @@
 
                         <div class="timeRow_center">
                             <div class="circle" id="circle4">
-                            <h3><span>ALL</span><br>PARTEILICHKEIT</h3>
+                            <h3>GÜNSTIGER</h3>
                             </div>
                         </div>
 
@@ -222,8 +223,8 @@
                             <hr id="right_content">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
-                            <h4>ALLPARTEILICHKEIT</h4>
-                            <p>Die Mediatorin ist allen Parteien gleichermaßen verpflichtet.</p>
+                            <h4>GÜNSTIGER</h4>
+                            <p>Es ist kostengünstiger, weil geringere/keine Gerichtskosten und Anwaltskosten anfallen.</p>
                             </div>
 
                             
