@@ -60,8 +60,13 @@
     border: 1px solid var(--mainColorheadline);
     border-radius: 50%;
     position: absolute;
-    bottom: 12px;
+    bottom: 9px;
     left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.dark_section li::before {
+    border: 1px solid var(--lightColor);
 }
 
 .introColumn {

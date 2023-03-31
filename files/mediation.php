@@ -349,12 +349,13 @@
         </div>
 
 
-        <!-- ContentBOX 3 -->
+        <!-- ContentBOX 4 -->
         <div class="contentBox dark_section section1">
             <!-- InnerContent -->
             <div class="contentInner">
+                <h3>Anwendungsgebiete</h3>
 
-                <div class="flip-card-container" id="container_anker">
+                <div class="flip-card-container">
                         
                         
                     
@@ -403,7 +404,7 @@
 
                         <div class="flip-card-back">
                         <div class="card-back-text">
-                            <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis...</p>
+                            <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis. Eine Mediation kann den Scheidungs-/Trennungspartnern helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
                             
                             <div class="button">
                             <a href="#cardLink2">mehr</a>
@@ -432,7 +433,7 @@
 
                         <div class="flip-card-back">
                         <div class="card-back-text">
-                            <p>Besonders im privaten Umfeld sind Harmonie und ein gutes Einvernehmen wichtig...</p>
+                            <p>Besonders im privaten Umfeld sind Harmonie und ein gutes Einvernehmen wichtig. Ein Konflikt mit einem Nachbarn verändert alles. Er beeinträchtigt unser Wohlbefinden und unser Bedürfnis nach Ruhe und Sicherheit. Wir verlieren einen Teil unseres privaten Zufluchtsorts.</p>
                             
                             <div class="button">
                             <a href="#cardLink3">mehr</a>
@@ -461,7 +462,7 @@
 
                         <div class="flip-card-back">
                         <div class="card-back-text">
-                            <p>Wirtschaftsmediation ist eine Methode der außergerichtlichen Klärung...</p>
+                            <p>Wirtschaftsmediation ist eine Methode der außergerichtlichen Klärung von sich abzeichnenden oder bereits bestehenden innerbetrieblichen bzw. zwischenbetrieblichen Konflikten im gesamtwirtschaftlichen Umfeld.</p>
                             
                             <div class="button">
                             <a href="#cardLink4">mehr</a>
@@ -490,7 +491,7 @@
 
                         <div class="flip-card-back">
                         <div class="card-back-text">
-                            <p>Eine besondere Form einer Mediation in der Arbeitswelt stellt die Absicht einer außerordentlichen Auflösung...</p>
+                            <p>Eine besondere Form einer Mediation in der Arbeitswelt stellt die Absicht einer außerordentlichen Auflösung eines Lehrverhältnisses und die Aufnahme eines Mediationsverfahrens gemäß § 15a BAG dar.</p>
                             
                             <div class="button">
                             <a href="#cardLink5">mehr</a>
@@ -539,6 +540,121 @@
         </div>
 
 
+        <!-- ContentBOX 5 -->
+        <div class="contentBox light_section section1">
+            <!-- InnerContent -->
+            <div class="contentInner">
+                <!-- Section 2 Spaltig -->
+                <div class="introColumn">
+                    <h3>Weitere Anwendungsgebiete</h3>
+
+                    <ul>
+                        <li>Im Freundes- und Bekanntenkreis</li>
+                        <li>Erbschaftsstreitigkeiten</li>
+                        <li>Sozialbereich</li>
+                        <li>Interkulturelle Konflikte</li>
+                        <li>Tierhaltung</li>
+                        <li>Mietrecht</li>
+                        <li>Umweltangelegenheiten u.v.m.</li>
+                    </ul>
+                    	
+
+                    </p>
+
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- ContentBOX 6 -->
+        <div class="contentBox dark_section section1">
+            <!-- InnerContent -->
+            <div class="contentInner">
+                <!-- Section 2 Spaltig -->
+                <div class="introColumn">
+                    <h3>Weitere Anwendungsgebiete</h3>
+
+                    <ul>
+                        <li><strong>Kein ungewisser Ausgang</strong><br>
+                            im Gegensatz zu einem gerichtlichen Verfahren haben die Parteien immer die volle Kontrolle über den Prozess.</li>
+                        <li>Es ist <strong>kostengünstiger</strong>,<br>
+                            weil geringere/keine Gerichtskosten und Anwaltskosten anfallen.</li>
+                        <li>Es ist <strong>schneller</strong><br>
+                            abgeschlossen als ein Gerichtsverfahren.</li>
+                        <li><strong>Freiwilligkeit</strong><br>
+                            Die Parteien können den Prozess jederzeit beenden. Es besteht keine Verpflichtung eine Mediation zu Ende zu bringen!</li>
+                        <li>Bei einer gerichtlichen Entscheidung wird nur auf die Gesetzmäßigkeit geachtet und nicht auf die Bedürfnisse der Parteien. Das Gericht entscheidet also nach Beweiserfolg. In einer Mediation muss keine außenstehende Person überzeugt werden (also keine „Dreckwäsche“ gewaschen werden).</li>
+                        <li><strong>Zufriedenstellende, nachhaltige Lösung für alle Beteiligten</strong> - In einer Mediation wird Bedacht auf die zukünftige Lebenssituation genommen und alle Anliegen und Bedürfnisse in einer kreativen Gesamtlösung miteingebunden. Jeder Mensch möchte Anerkennung und Wertschätzung erfahren! In einem solchen Verfahren ist das möglich. Es gibt keine Verlierer.</li>
+                        <li>Keine Gerichtsverhandlung, sondern eine <strong>geschützte und vertrauliche Atmosphäre.</strong></li>
+                        <li>Auch die in einer Mediation erarbeitete gemeinsame Lösung ist rechtlich verbindlich und kann in einem etwaigen Gerichtsverfahren vorgelegt werden.</strong></li>
+                    </ul>
+                    	
+
+                    </p>
+
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- ContentBOX 7 -->
+        <div class="contentBox light_section section1">
+            <!-- InnerContent -->
+            <div class="contentInner">
+                <!-- Section 2 Spaltig -->
+                <div class="introColumn">
+                    <h3>Einzelgespräche</h3>
+
+                    <p>
+                        Bei höher eskalierten Konflikten ist es für die Betroffenen zu Beginn einer Mediation oft nicht möglich, gemeinsam an einem Tisch zu sitzen. In solchen Fällen sind Einzelgespräche hilfreich. In Form einer sogenannten Shuttelmediation werden die Inhalte der Einzelgespräche (nur mit Zustimmung der einzelnen Parteien) durch die Mediatorin der anderen Partei übermittelt und so schrittweise ein gemeinsames Gespräch ermöglicht.
+                    </p>
+
+
+                </div>
+            </div>
+        </div>
+
+
+                <!-- ContentBOX 8 -->
+                <div class="contentBox dark_section section1">
+            <!-- InnerContent -->
+            <div class="contentInner">
+                <!-- Section 2 Spaltig -->
+                <div class="introColumn">
+                    <h3>Historie der Mediation</h3>
+
+                    <p>
+                        Um das „Faustrecht“ zurückzudrängen, musste der Staat den einzelnen Bürgern andere Zugangsmöglichkeiten zur friedlichen Regelung von Rechtsstreitigkeiten zur Verfügung stellen. Es wurde daher mit großem Aufwand die Gerichtsbarkeit geschaffen, wo ein*e unparteiische*r Richter*in in einem Gerichtsverfahren für beide Parteien zwingendes „Recht“ spricht.
+                        <br><br>
+                        In anderen Ländern, etwa in Amerika, hat sich neben den Gerichten die Mediation als zusätzlicher Weg herausgebildet, wo nicht die Richterin, sondern die Parteien selbst, unter Anleitung einer Mediatorin(= Vermittlerin), gemeinsam nach fairen, für sie akzeptablen Lösungen für die Beilegung des Streites suchen.
+                        <br><br>
+                        Mediation ist mittlerweile als anerkanntes Konfliktlösungsmodell auch in Europa weit verbreitet. In Österreich wurde durch das Bundesgesetz über Mediation in Zivilrechtssachen (Zivil-Rechts-Mediations-Gesetz – ZivMediatG 2003, BGBl. 29/2003) ein wichtiger Meilenstein für die Akzeptanz und die Qualität der Mediation gesetzt. Eine Ausbildungsverordnung und die strengen Kriterien für die Eintragung in die Liste der Mediatoren beim Bundesministerium für Justiz gewährleisten höchste Qualität.
+                    </p>
+
+
+                </div>
+            </div>
+        </div>
+
+
+                <!-- ContentBOX 9 -->
+                <div class="contentBox light_section section1">
+            <!-- InnerContent -->
+            <div class="contentInner">
+                <!-- Section 2 Spaltig -->
+                <div class="introColumn">
+                    <h3>Einzelgespräche</h3>
+
+                    <p>
+                        Bei höher eskalierten Konflikten ist es für die Betroffenen zu Beginn einer Mediation oft nicht möglich, gemeinsam an einem Tisch zu sitzen. In solchen Fällen sind Einzelgespräche hilfreich. In Form einer sogenannten Shuttelmediation werden die Inhalte der Einzelgespräche (nur mit Zustimmung der einzelnen Parteien) durch die Mediatorin der anderen Partei übermittelt und so schrittweise ein gemeinsames Gespräch ermöglicht.
+                    </p>
+
+
+                </div>
+            </div>
+        </div>
 
 
         
