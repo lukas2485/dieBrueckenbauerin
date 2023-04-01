@@ -378,7 +378,7 @@
                             <p>Weil die Familie so wichtig ist, sollten Konflikte schnellstmöglich bearbeitet und an einer gemeinsamen Lösung gearbeitet werden.</p>
 
                             <div class="button">
-                            <a href="#cardLink1">mehr</a>
+                            <a href="#familie">mehr</a>
                             </div>
                             
                         </div>
@@ -407,7 +407,7 @@
                             <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis. Eine Mediation kann den Scheidungs-/Trennungspartnern helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
                             
                             <div class="button">
-                            <a href="#cardLink2">mehr</a>
+                            <a href="#scheidung">mehr</a>
                             </div>
 
                         </div>
@@ -436,7 +436,7 @@
                             <p>Besonders im privaten Umfeld sind Harmonie und ein gutes Einvernehmen wichtig. Ein Konflikt mit einem Nachbarn verändert alles. Er beeinträchtigt unser Wohlbefinden und unser Bedürfnis nach Ruhe und Sicherheit. Wir verlieren einen Teil unseres privaten Zufluchtsorts.</p>
                             
                             <div class="button">
-                            <a href="#cardLink3">mehr</a>
+                            <a href="#nachbarschaft">mehr</a>
                             </div>
 
                         </div>
@@ -465,7 +465,7 @@
                             <p>Wirtschaftsmediation ist eine Methode der außergerichtlichen Klärung von sich abzeichnenden oder bereits bestehenden innerbetrieblichen bzw. zwischenbetrieblichen Konflikten im gesamtwirtschaftlichen Umfeld.</p>
                             
                             <div class="button">
-                            <a href="#cardLink4">mehr</a>
+                            <a href="#wirtschaft">mehr</a>
                             </div>
 
                         </div>
@@ -494,7 +494,7 @@
                             <p>Eine besondere Form einer Mediation in der Arbeitswelt stellt die Absicht einer außerordentlichen Auflösung eines Lehrverhältnisses und die Aufnahme eines Mediationsverfahrens gemäß § 15a BAG dar.</p>
                             
                             <div class="button">
-                            <a href="#cardLink5">mehr</a>
+                            <a href="#lehrling">mehr</a>
                             </div>
 
                         </div>
@@ -523,7 +523,7 @@
                             <p>Schulmediation ist eine Methode zur Konfliktbearbeitung zwischen Lehrkräften, Eltern und Schülern.</p>
                             
                             <div class="button">
-                            <a href="#cardLink6">mehr</a>
+                            <a href="#bildung">mehr</a>
                             </div>
 
                         </div>
@@ -557,10 +557,6 @@
                         <li>Mietrecht</li>
                         <li>Umweltangelegenheiten u.v.m.</li>
                     </ul>
-                    	
-
-                    </p>
-
 
                 </div>
             </div>
@@ -640,7 +636,7 @@
 
 
         <!-- ContentBOX 9 -->
-        <div class="contentBox light_section section1">
+        <div class="contentBox light_section section1" id="familie">
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
@@ -685,7 +681,7 @@
 
 
         <!-- ContentBOX 10 -->
-        <div class="contentBox dark_section section1">
+        <div class="contentBox dark_section section1" id="scheidung">
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
@@ -754,7 +750,7 @@
 
 
         <!-- ContentBOX 12 -->
-        <div class="contentBox dark_section section1">
+        <div class="contentBox dark_section section1" id="nachbarschaft">
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
@@ -791,7 +787,7 @@
 
 
         <!-- ContentBOX 13 -->
-        <div class="contentBox light_section section1">
+        <div class="contentBox light_section section1" id="wirtschaft">
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
@@ -898,7 +894,7 @@
 
 
         <!-- ContentBOX 14-->
-        <div class="contentBox section1 dark_section ">
+        <div class="contentBox section1 dark_section"  id="lehrling">
                 
             <div class="contentInner_TwoColumn">
                     <!-- Section 2 Spaltig -->
@@ -975,7 +971,34 @@
 
 
         <!-- ContentBOX 15 -->
-        <div class="contentBox light_section section1">
+        <div class="contentBox light_section section1" id="bildung">
+            <!-- InnerContent -->
+            <div class="contentInner">
+                <!-- Section 2 Spaltig -->
+                <div class="introColumn">
+
+                    <h3>Schul- und Bildungsmediation</h3>
+
+                    <p>Schulmediation ist eine Methode zur Konfliktbearbeitung zwischen Lehrkräften, Eltern und Schülerinnen und Schülern.</p>
+                    
+                    
+                    <h4>Vorteile sind:</h4>
+                    <hr>
+                    <ul>
+                        <li>Verbesserung des sozialen Klimas</li>
+                        <li>Gewaltprävention an der Schule</li>
+                        <li>Entlastung des Lehrkörpers von Alltagskonflikten der Schülerinnen und Schülern</li>
+                        <li>Vermittlung von sozialen Kompetenzen</li>
+                        <li>Förderung der Konfliktfähigkeit</li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+
+        <!-- ContentBOX 15 -->
+        <div class="contentBox dark_section section1">
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
