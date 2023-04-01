@@ -65,6 +65,10 @@
     transform: translate(-50%, -50%);
 }
 
+.contentBox li:last-child::before {
+    content: none;
+}
+
 .dark_section li::before {
     border: 1px solid var(--lightColor);
 }
