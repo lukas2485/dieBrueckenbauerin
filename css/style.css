@@ -468,10 +468,9 @@ p {
 
 
   .flip-card-front h1 {
-    font-family: 'Dancing Script', cursive;
     color: var(--mainColorheadline);
     font-size: 1.8em;
-    font-weight: 800;
+    font-weight: 600;
   }
 
   .flip-card-front h4 {
@@ -517,7 +516,7 @@ p {
 
 .frontImg{
     width: 90%;
-    height: 65%;
+    height: 100%;
     position: relative;
     background-image: url(../img/flipCard/haende.jpg);
     background-size: cover;

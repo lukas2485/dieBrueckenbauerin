@@ -363,14 +363,9 @@
                     <div class="flip-card-inner">
 
                         <div class="flip-card-front">
-                        <div class="frontImg">
-                            <div class="frontImg_overlay"><h1>Familie</h1></div>
-                        </div>
-                    
-                        <div class="frontBottom">
-                            <hr>
-                            <h4>Weil die Familie so wichtig ist...</h4>
-                        </div>
+                            <div class="frontImg">
+                                <div class="frontImg_overlay"><h1>Familie</h1></div>
+                            </div>
                         </div>
 
                         <div class="flip-card-back">
@@ -392,14 +387,10 @@
                     <div class="flip-card-inner">
 
                         <div class="flip-card-front">
-                        <div class="frontImg">
-                            <div class="frontImg_overlay"><h1>Scheidung Trennung</h1></div>
-                        </div>
+                            <div class="frontImg">
+                                <div class="frontImg_overlay"><h1>Scheidung Trennung</h1></div>
+                            </div>
                     
-                        <div class="frontBottom">
-                            <hr>
-                            <h4>ein hoch emotionales Ereignis...</h4>
-                        </div>
                         </div>
 
                         <div class="flip-card-back">
@@ -421,14 +412,9 @@
                     <div class="flip-card-inner">
 
                         <div class="flip-card-front">
-                        <div class="frontImg">
-                            <div class="frontImg_overlay"><h1>Nachbarschaft</h1></div>
-                        </div>
-                    
-                        <div class="frontBottom">
-                            <hr>
-                            <h4>Besonders im privaten Umfeld...</h4>
-                        </div>
+                            <div class="frontImg">
+                                <div class="frontImg_overlay"><h1>Nachbar&shy;schaft</h1></div>
+                            </div>
                         </div>
 
                         <div class="flip-card-back">
@@ -450,14 +436,9 @@
                     <div class="flip-card-inner">
 
                         <div class="flip-card-front">
-                        <div class="frontImg">
-                            <div class="frontImg_overlay"><h1>Wirtschaft<br>Arbeitswelt</h1></div>
-                        </div>
-                    
-                        <div class="frontBottom">
-                            <hr>
-                            <h4> Methode Wirtschaftsmediation ...</h4>
-                        </div>
+                            <div class="frontImg">
+                                <div class="frontImg_overlay"><h1>Wirtschaft<br>Arbeitswelt</h1></div>
+                            </div>
                         </div>
 
                         <div class="flip-card-back">
@@ -479,14 +460,9 @@
                     <div class="flip-card-inner">
 
                         <div class="flip-card-front">
-                        <div class="frontImg">
-                            <div class="frontImg_overlay"><h1>Lehrlings&shy;mediation </h1></div>
-                        </div>
-                    
-                        <div class="frontBottom">
-                            <hr>
-                            <h4> nach § 15a BAG:</h4>
-                        </div>
+                            <div class="frontImg">
+                                <div class="frontImg_overlay"><h1>Lehrlings&shy;mediation </h1></div>
+                            </div>
                         </div>
 
                         <div class="flip-card-back">
@@ -508,14 +484,9 @@
                     <div class="flip-card-inner">
 
                         <div class="flip-card-front">
-                        <div class="frontImg">
-                            <div class="frontImg_overlay"><h1>Schul- und Bildungs&shy;mediation</h1></div>
-                        </div>
-                    
-                        <div class="frontBottom">
-                            <hr>
-                            <h4> Zwischen Lehrkräften...</h4>
-                        </div>
+                            <div class="frontImg">
+                                <div class="frontImg_overlay"><h1>Schul- und Bildungs&shy;mediation</h1></div>
+                            </div>
                         </div>
 
                         <div class="flip-card-back">
