@@ -405,8 +405,8 @@ p {
     --flip-color: var(--lightColor);
     --flip-backg-color: var(--darkerColor);
     background-color: transparent;
-    min-width: 230px;
-    height: 350px;
+    min-width: 240px;
+    height: 370px;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */ 
     margin-bottom: 25px; 
 }
