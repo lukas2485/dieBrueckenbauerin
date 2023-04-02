@@ -55,12 +55,13 @@
 
 .contentBox li::before {
     content: '';
-    height: 10px;
-    width: 10px;
-    border: 1px solid var(--mainColorheadline);
-    border-radius: 50%;
+    width: 30px;
+    height: 17px;
+    background-image: url(..//img/svg/Bruecke_ohne.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
     position: absolute;
-    bottom: 9px;
+    bottom: 2px;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -70,7 +71,15 @@
 }
 
 .dark_section li::before {
-    border: 1px solid var(--lightColor);
+    background-image: url(../img/svg/Bruecke_ohne_weiss.svg);
+    width: 30px;
+    height: 17px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    bottom: 2px;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .introColumn {
