@@ -290,7 +290,7 @@
                     <div class="section1Inner">
                         <h3>Was mache ich als Mediatorin?</h3>
 
-                        <div class="flex align_center column_gap flex_start">
+                        <div class="flex align_center justify_center column_gap flex_start">
                             <!-- Links -->
                             <div class="sec1Item">
                                 <p>
@@ -882,7 +882,7 @@
                         <div class="section1Inner">
                             <h3>Lehrverhältnis</h3>
 
-                            <div class="flex align_center column_gap flex_start">
+                            <div class="flex align_center justify_center column_gap flex_start">
                                 <!-- Links -->
                                 <div class="sec1Item">
                                     <p> besondere Form einer Mediation in der Arbeitswelt stellt die Absicht einer außerordentlichen Auflösung eines Lehrverhältnisses und die Aufnahme eines Mediationsverfahrens gemäß § 15a BAG dar. In der Lehrlingsmediation sind zahlreiche und kurze Fristen sowie eine strikte Form einzuhalten.</p>
@@ -988,45 +988,60 @@
         <div class="contentBox dark_section section1">
             <!-- InnerContent -->
             <div class="contentInner">
+
+            <h3>Mietrecht</h3>
+
+<p>Das Verhältnis zwischen Mieter*in und Vermieter*in ist meist durch einen Vertrag geregelt. Trotzdem kann es zu Unstimmigkeiten und Konflikten kommen. Diese könne durch Auffassungsunterschiede, Nachbarn oder sonstige Umstände entstehen, die das Mietverhältnis betreffen oder beeinträchtigen.</p>
                 <!-- Section 2 Spaltig -->
-                <div class="introColumn">
+                <div class="flex align_center space-between column_gap padding_bot padding_top">
 
-                    <h3>Mietrecht</h3>
-
-                    <p>Das Verhältnis zwischen Mieter*in und Vermieter*in ist meist durch einen Vertrag geregelt. Trotzdem kann es zu Unstimmigkeiten und Konflikten kommen. Diese könne durch Auffassungsunterschiede, Nachbarn oder sonstige Umstände entstehen, die das Mietverhältnis betreffen oder beeinträchtigen.</p>
                     
-                    
-                    <h4>Mediation kann Mieter*innen etwa helfen bei:</h4>
-                    <hr>
-                    <ul>
-                        <li>Mietvertragsstreitigkeiten</li>
-                        <li>Kündigung</li>
-                        <li>Wohnungsmängeln</li>
-                        <li>Betriebskostenabrechnung</li>
-                        <li>Hausordnung</li>
-                        <li>Renovierungs- und Umbauarbeiten</li>
-                        <li>Sanierungsmaßnahmen</li>
-                        <li>Abnahmeprotokoll</li>
+                   
 
-                    </ul>
+                    <div class="sec1Item ">
+                        <h4>Mediation kann Mieter*innen etwa helfen bei:</h4>
+                        
+                    </div>
 
+                    <div class="sec1Item">
+                        <ul class="small">
+                                <li>Mietvertragsstreitigkeiten</li>
+                                <li>Kündigung</li>
+                                <li>Wohnungsmängeln</li>
+                                <li>Betriebskostenabrechnung</li>
+                                <li>Hausordnung</li>
+                                <li>Renovierungs- und Umbauarbeiten</li>
+                                <li>Sanierungsmaßnahmen</li>
+                                <li>Abnahmeprotokoll</li>
 
-                    <h4>Mediation kann Vermieter*innen etwa helfen bei:</h4>
-                    <hr>
-                    <ul>
-                        <li>Mietzahlungsausfällen</li>
-                        <li>Mietvertrags- bzw. Bestandsvertragsangelegenheiten</li>
-                        <li>Betriebskostenabrechnung</li>
-                        <li>Hausordnung</li>
-                        <li>Kaution</li>
-                        <li>Mieterhöhung</li>
-                        <li>Kündigung</li>
-                        <li>Modernisierung</li>
-                        <li>Eigentümerwechsel</li>
-                        <li>Untervermietung</li>
-                    </ul>
-                  
+                        </ul>
+                    </div>
                 </div>
+
+
+                <!-- Section 2 Spaltig -->
+                <div class="flex align_center space-between column_gap padding_bot">
+                    <div class="sec1Item">
+                        <h4>Mediation kann Vermieter*innen etwa helfen bei:</h4>
+                    </div>
+
+                    <div class="sec1Item">
+                        <ul class="small">
+                            <li>Mietzahlungsausfällen</li>
+                            <li>Mietvertrags- bzw. Bestandsvertragsangelegenheiten</li>
+                            <li>Betriebskostenabrechnung</li>
+                            <li>Hausordnung</li>
+                            <li>Kaution</li>
+                            <li>Mieterhöhung</li>
+                            <li>Kündigung</li>
+                            <li>Modernisierung</li>
+                            <li>Eigentümerwechsel</li>
+                            <li>Untervermietung</li>
+                        </ul>
+                    </div>
+                </div>
+
+
             </div>
 
             
