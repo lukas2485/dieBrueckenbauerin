@@ -20,14 +20,7 @@
     <!-- Navbar -->
     <?php  require_once('navbar.php');  ?>
 
-    <div class="headerBild">
-        <!-- Overlay -->
-        <div class="headerBild_Overlay"></div>
-
-            
-        
-    </div>
-
+   
     <!-- Content -->
     <div class="content">
 
@@ -40,7 +33,7 @@
                 <div class="introColumn">
                     <h3>Oft gestellte Fragen </h3>
 
-                    <div class="question_Box p-top">
+                    <div class="question_Box">
                         
                         <!-- Frage -->
                         <div class="box_top">
@@ -63,7 +56,7 @@
 
                     </div>
 
-                    <div class="question_Box p-top">
+                    <div class="question_Box">
                         
                         <!-- Frage -->
                         <div class="box_top">
@@ -71,7 +64,7 @@
                             <p class="question">Fristen</p>
                             
                             <!-- More Button -->
-                            <div class="more_faq_btn">⋁</div>
+                            <div class="more_faq_btn"><p>⋁</p></div>
                         </div>
 
                         <div class="box_bot">
@@ -82,7 +75,7 @@
 
                     </div>
 
-                    <div class="question_Box p-top">
+                    <div class="question_Box">
                         
                         <!-- Frage -->
                         <div class="box_top">
@@ -90,7 +83,7 @@
                             <p class="question">Wie lange dauert eine Mediation?</p>
                             
                             <!-- More Button -->
-                            <div class="more_faq_btn">⋁</div>
+                            <div class="more_faq_btn"><p>⋁</p></div>
                         </div>
 
                         <!-- Antwort -->
@@ -101,7 +94,7 @@
                         Die Dauer einer Mediationssitzung beträgt meistens 1,5 Stunden. Die Abstände zwischen den Sitzungen werden bedarfsorientiert gestaltet und variieren üblicherweise zwischen zwei Wochen und einem Monat. Dies ermöglicht den Konfliktpartnern die emotionale Verarbeitung, die Durchführung notwendiger Recherchen (rechtlich, steuerlich etc.) und nicht zuletzt die Erprobung vorläufiger Vereinbarungen.</p>
                     </div>
 
-                    <div class="question_Box p-top">
+                    <div class="question_Box">
                         
                         <!-- Frage -->
                         <div class="box_top">
@@ -109,7 +102,7 @@
                             <p class="question">Wieviel kostet eine Mediation?</p>
                             
                             <!-- More Button -->
-                            <div class="more_faq_btn">⋁</div>
+                            <div class="more_faq_btn"><p>⋁</p></div>
                         </div>
 
                         <!-- Antwort -->
@@ -121,7 +114,7 @@
                         Die Kostenaufteilung zwischen den Konfliktparteien ist variabel und zwischen den Parteien zu vereinbaren. In der Regel tragen die Parteien die Kosten zu gleichen Teilen.</p>
                     </div>
 
-                    <div class="question_Box p-top">
+                    <div class="question_Box">
                         
                         <!-- Frage -->
                         <div class="box_top">
@@ -129,7 +122,7 @@
                             <p class="question">Was erwartet mich?</p>
                             
                             <!-- More Button -->
-                            <div class="more_faq_btn">⋁</div>
+                            <div class="more_faq_btn"><p>⋁</p></div>
                         </div>
 
                         <!-- Antwort -->
@@ -146,7 +139,7 @@
                         Mediation ein geschützter Rahmen, um gemeinsam eine Lösung zu erarbeiten und zu verhandeln.
                     </div>
 
-                    <div class="question_Box p-top">
+                    <div class="question_Box">
                         
                         <!-- Frage -->
                         <div class="box_top">
@@ -154,7 +147,7 @@
                             <p  class="question">Wo kann die Mediation stattfinden?</p>
                             
                             <!-- More Button -->
-                            <div class="more_faq_btn">⋁</div>
+                            <div class="more_faq_btn"><p>⋁</p></div>
                         </div>
 
                         <!-- Antwort -->

@@ -10,11 +10,21 @@
     width: 100%;
 }
 
+.question_Box a{
+    color: var(--mainColorheadline);
+}
+
+.question_Box a{
+    color: var(--mainColorheadline);
+}
+
 .box_top {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
+    padding: 20px;
+    
 }
 
 .box_bot {
