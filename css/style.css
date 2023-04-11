@@ -132,6 +132,10 @@ p {
     font-weight: 300;
 }
 
+.p-top {
+    padding-top: 3rem;
+}
+
 .headline{
     padding-bottom: 8rem;
 }
@@ -281,22 +285,7 @@ p {
     font-size: 1.5rem;  
 }
 
-.to_uebersicht_Btn {
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
-    height: 50px;
-    width: 50px;
-    border: 1px solid var(--mainColorheadline);
-    border-radius: 50%;
-}
-
-.to_uebersicht_Btn a:hover{
-    color: var(--mainColorheadline);
-}
-
-.dark_section .to_uebersicht_Btn,  .dark_section a{
+.dark_section,  .dark_section a{
     border: 1px solid var(--lightColor);
     color: var(--lightColor);
 }

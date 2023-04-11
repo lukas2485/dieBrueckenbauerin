@@ -22,13 +22,16 @@
                     <a href="mediation.php" class="nav-link">Mediation</a>
                 </li>
                 <li class="nav-item">
-                    <a href="leistungen.php" class="nav-link">Leistungen</a>
+                    <a href="zusatzangebot.php" class="nav-link">Zusatzangebot</a>
+                </li>
+                <li class="nav-item">
+                    <a href="faq.php" class="nav-link">FAQ</a>
                 </li>
                 <li class="nav-item">
                     <a href="kontakt.php" class="nav-link">Kontakt</a>
                 </li>
-
             </ul>
+
             <div class="hamburger">
                 <span class="bar"></span>
                 <span class="bar"></span>

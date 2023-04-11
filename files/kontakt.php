@@ -28,7 +28,7 @@
             <div class="kontaktContent">
                 <div class="headline">
                     <h3>Kontaktieren Sie mich</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta similique explicabo qui corporis aspernatur, tenetur hic delectus voluptatum.</p>
+                    <p> für ein unverbindliches Erstgespräch.</p>
                 </div>
 
                 <!-- Subcontainer mit Symbol -->
@@ -39,7 +39,7 @@
                             </div>
                             <h4>ADRESSE</h4>
                             <p>Birkenweg 200 <br>
-                             Kopfing im Innkreis</p>
+                             4794 Kopfing im Innkreis</p>
                         </div>
 
                         <div class="element">
@@ -47,7 +47,7 @@
                                 <img src="../img/kontakt/Handy.png" alt="">
                             </div>
                             <h4>Handy</h4>
-                            <p>+43 680 14 75 650</p>
+                            <p>+43 681 10 25 39 54</p>
                         </div>
 
                         <div class="element">
@@ -55,7 +55,7 @@
                                 <img src="../img/kontakt/Email.png" alt="">
                             </div>
                             <h4>Mail</h4>
-                            <a href="mailto:office@dieBrueckenbauerin.at">office@dieBB.at</a>
+                            <a href="mailto:info@diebrückenbauerin.com">info@diebrückenbauerin.com</a>
                         </div>
 
                         <div class="element">
