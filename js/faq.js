@@ -18,19 +18,19 @@ function clickMore(event) {
   
   
   // Füge der sideCont-Klasse das sichtbare Attribut hinzu
-  if (answer.style.display == "none") {
+  if (answer.style.display == "block") {
+    answer.style.display='none';
+    answer.style.marginBottom = "0";
+    child.innerHTML = "⋁";
+    changeStyle(question, "none", "var(--mainColorheadline)");
+    changeButtonStyle(target, "var(--mainColorheadline)");
+  } else {
     answer.style.display='block';
     answer.style.marginBottom = "40px";
     answer.style.padding = "20px";
     child.innerHTML = "⋀";
     changeStyle(question, "var(--mainColorheadline)", "var(--lightColor)");
     changeButtonStyle(target, "var(--lightColor)");
-  } else {
-    answer.style.display='none';
-    answer.style.marginBottom = "0";
-    child.innerHTML = "⋁";
-    changeStyle(question, "none", "var(--mainColorheadline)");
-    changeButtonStyle(target, "var(--mainColorheadline)");
   }
   
 }
@@ -40,10 +40,11 @@ function setup(){
       
         const fragen = document.querySelectorAll('.more_faq_btn');
         
+        
         fragen.forEach(fragen => {
           fragen.addEventListener('click', clickMore);
-          
-            console.log('Eventlistener click');
+
+          console.log('Eventlistener click');
 
         });
         
@@ -52,4 +53,3 @@ function setup(){
 	
 
 window.addEventListener("load", setup);
-
