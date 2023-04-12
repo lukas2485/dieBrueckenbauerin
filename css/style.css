@@ -8,6 +8,7 @@
     --darkerColor : #899a88;
     --lightColor: #f2f0e1;
     --mainColorheadline: #364635;
+    --footerBG: #233f22;
 }
 
 
@@ -17,10 +18,21 @@ html {
     scroll-behavior: smooth;
 }
 
+.header{
+    position:sticky;
+    top:0;    
+    z-index: 5;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
 body {
     background-color: var(--lightColor);
     color: var(--mainColorheadline);
     font-size: 1.8rem;
+}
+
+.footer {
+    background-color: var(--footerBG);
 }
 
 ul {
@@ -132,6 +144,20 @@ p {
     font-weight: 300;
 }
 
+.footer_item p, span, a {
+    font-size: 1.3rem;
+    line-height: 2;
+    color: var(--lightColor)
+}
+
+.footer_item p {
+    font-weight: 200;
+}
+
+.footer_item span {
+    font-weight: 500;
+}
+
 .p-top {
     padding-top: 3rem;
 }
@@ -140,12 +166,7 @@ p {
     padding-bottom: 8rem;
 }
 
-.header{
-    position:sticky;
-    top:0;    
-    z-index: 5;
-    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
-}
+
 
 .headerBild hr {
     margin-top: 30px;
@@ -234,6 +255,18 @@ p {
 .contentBox{
     position:relative;
     padding: 7rem 0;
+}
+
+.footerContainer {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    column-gap: 5%;
+    padding: 30px 0;
+}
+
+.footer_item {
+    
 }
 
 .nav-menu {
