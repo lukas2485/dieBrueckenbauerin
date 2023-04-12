@@ -1,5 +1,10 @@
+
 .answer{
     display: none;
+}
+
+.content {
+    min-height: 100vh;
 }
 
 .introColumn p{
