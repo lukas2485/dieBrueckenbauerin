@@ -144,7 +144,7 @@ p {
     font-weight: 300;
 }
 
-.footer_item p, span, a {
+.footer_item p, .footer_item span, .footer_item a {
     font-size: 1.3rem;
     line-height: 2;
     color: var(--lightColor)
