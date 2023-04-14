@@ -8,8 +8,8 @@ function hoverRot(event) {
   sideCont.classList.add("visible");
   
   // Kreis verkleinern
-  target.style.height = "140px";
-  target.style.width = "140px";
+  target.style.height = "var(--shrinkingCircle)";
+  target.style.width = "var(--shrinkingCircle)";
   target.style.backgroundColor = "#364635";
   target.style.overflow = "hidden";
 }
@@ -23,9 +23,9 @@ function hoverRotStop(event){
   sideCont.classList.remove("visible");
 
 
-  // Kreis verkleinern
-  target.style.height = "190px";
-  target.style.width = "190px";
+  // Kreis vergrößern
+  target.style.height = "var(--diameterCircle)";
+  target.style.width = "var(--diameterCircle)";
   target.style.backgroundColor = "#f2f0e1";
 }
 

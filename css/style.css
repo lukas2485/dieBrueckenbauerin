@@ -684,6 +684,18 @@ p {
     }
 
 
+    /* Generelle Settings Mobile Ansicht */
+
+    * {
+        overflow-wrap: break-word;
+    }
+    
+    h3 {
+        font-size: 2.8rem;
+    }
+
+
+
     /* Container für Bild und Box */
 
     .fotoContainer {

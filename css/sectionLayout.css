@@ -102,7 +102,6 @@ justify_center {
 }
 
 .small {
-    display: inline-block;
     max-width: 300px;
     padding-bottom: 0;
 }
