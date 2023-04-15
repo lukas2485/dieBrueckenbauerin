@@ -3,11 +3,9 @@
 
             <div class="navHome">
                 <div class="navHomeLogo">
-                    <div style="padding-left: 2rem;">
+                    <div>
                         <a href="index.php"><img src="../img/svg/logo2.svg" alt="Aleq" width="275" height="auto"></a>
                     </div>
-
-                    <!-- <p>Gespür | Verständnis | Einigung</p> -->
                 </div>
                 
             </div>

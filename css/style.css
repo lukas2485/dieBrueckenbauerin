@@ -653,7 +653,7 @@ p {
 }
 
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1225px) {
 
     /* Scrollverhalten bei Anchors */
     html {
@@ -761,7 +761,7 @@ p {
     }
 
     .navbar {
-        padding: 3rem 3em 3rem 3em;
+        padding:  1rem 3% 1rem 3%;
     }
 
     .nav-link:hover{
