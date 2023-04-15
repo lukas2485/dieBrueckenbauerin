@@ -57,19 +57,9 @@
                             <h4>Mail</h4>
                             <a href="mailto:info@diebrückenbauerin.com">info@diebrückenbauerin.com</a>
                         </div>
-
-                        <div class="element">
-                            <div class="elementImg">
-                                <img src="../img/kontakt/Kalender.png" alt="">
-                            </div>
-                            <h4>Termin</h4>
-                            <a href="#">Hier buchen</a>
-                        </div>
                 </div>
             </div>
 
-            <!-- Horizontale Linie -->
-            <hr>
             
             <!-- Karte -->
             <div class="maps">

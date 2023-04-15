@@ -245,7 +245,7 @@ p {
 
 .content{
     width: 100%;
-    margin: 3rem auto;
+    margin: 0 auto;
     margin-top: 0;
     display: flex;
     flex-direction: column;
@@ -320,7 +320,6 @@ p {
 }
 
 .dark_section,  .dark_section a{
-    border: 1px solid var(--lightColor);
     color: var(--lightColor);
 }
 
@@ -491,8 +490,9 @@ p {
 }
 
 
-.flip-card-container h1, h4, p{
+.flip-card-container h1, .flip-card-container h4, .flip-card-container p{
     word-break: break-word;
+    color: var(--lightColor);
 }
 
 
@@ -661,6 +661,8 @@ p {
         scroll-behavior: auto;
     }
     
+    
+
 
     /* Kreis HeaderBild */
     .headerBild_Text h1{
