@@ -183,7 +183,6 @@ p {
     align-items: center;
     padding: 1rem 10em 1rem 10em;
     background-color: var(--darkerColor);
-    
 }
 
 .headerBild {
@@ -674,12 +673,12 @@ p {
     
     /* Container für Bild und Box */
     .contentInner{
-        width: 95%;
+        width: 90%;
         margin: 0 auto;
     }
 
     .contentInner_TwoColumn {
-        max-width: 95%;
+        max-width: 90%;
         margin: 0 auto;
     }
 
@@ -692,6 +691,23 @@ p {
     
     h3 {
         font-size: 2.8rem;
+    }
+
+    /* Mobile Ansicht für zweispaltige Boxen */
+
+    .sec1Item {
+        width: 100%!important;
+    }
+
+    .contentInner_TwoColumn .flex {
+        flex-direction: column;
+    }
+
+
+    /* Kreis im Header */
+    .headerBild_Text {
+        box-shadow: none;
+        border: none;
     }
 
 
@@ -747,7 +763,7 @@ p {
     .nav-menu {
         position: fixed;
         left: -100%;
-        top: 18rem;
+        top: 0;
         flex-direction: column;
         background-color: var(--darkerColor);
         width: 100%;
@@ -771,7 +787,7 @@ p {
     
     .nav-menu.active {
         left: 0;
-        top: 130px;
+        top: 8.5%;
         z-index: 3;
     }
 
