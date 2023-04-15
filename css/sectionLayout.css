@@ -29,6 +29,11 @@ justify_center {
     max-width: 600px;
 }
 
+.sec1ItemUl {
+    width: 48%;
+    max-width: 600px;
+}
+
 .section1 {
     text-align: justify;
     width: 100%;
@@ -66,6 +71,26 @@ justify_center {
 .dark_section h3 {
     color: var(--lightColor);
 }
+
+.to_uebersicht_Btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.dark_section .to_uebersicht_Btn {
+    border: 2px solid var(--lightColor);
+}
+
+.light_section .to_uebersicht_Btn {
+    border: 2px solid var(--mainColorheadline);
+}
+
 
 .contentBox li {
     position: relative;

@@ -227,6 +227,8 @@ p {
     box-shadow: 1px 2px 36px 14px rgba(54,70,53,0.65);
 }
 
+
+
 .hamburger {
     display: none;
 }
@@ -703,6 +705,9 @@ p {
         flex-direction: column;
     }
 
+    .miete .flex {
+        flex-direction: column;
+    }
 
     /* Kreis im Header */
     .headerBild_Text {
@@ -738,8 +743,9 @@ p {
     }
 
     .flip-card {
-        width: 70%;
-        height: 80vh;
+        width: 100%;
+        max-width: 322px ;
+        height: 60vh;
     }
 
     .flip-card-container, .flip-card:not(:last-child){
