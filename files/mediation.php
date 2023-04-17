@@ -47,7 +47,7 @@
                             <p>Kein ungewisser Ausgang - im Gegensatz zu einem gerichtlichen Verfahren haben die Parteien immer die volle Kontrolle über den Prozess. Keine Gerichtsverhandlung, sondern eine geschützte und vertrauliche Atmosphäre.</p>
                             </div>
 
-                            <hr id="right_content">
+                            <hr class="hr">
                         </div>
 
                         <div class="timeRow_center">
@@ -74,7 +74,7 @@
                         </div>
 
                         <div class="timeConSide flick" id="side2">
-                            <hr id="right_content">
+                            <hr class="hr">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
                             <h4>FREIWILLIG</h4>
@@ -95,7 +95,7 @@
                             <p>Es ist schneller abgeschlossen als ein Gerichtsverfahren.</p>
                             </div>
 
-                            <hr id="right_content">
+                            <hr class="hr">
                         </div>
 
                         <div class="timeRow_center">
@@ -121,7 +121,7 @@
                         </div>
 
                         <div class="timeConSide flick" id="side4">
-                            <hr id="right_content">
+                            <hr class="hr">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
                             <h4>VERSTÄNDNIS</h4>
@@ -144,7 +144,7 @@
                             <p>Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte, die sie miteinander haben, selbst zu lösen. Die Mediatorin fördert die Lösungsfindung und ist verantwortlich für den Ablauf.</p>
                             </div>
 
-                            <hr id="right_content">
+                            <hr class="hr">
                         </div>
 
                         <div class="timeRow_center">
@@ -170,7 +170,7 @@
                         </div>
 
                         <div class="timeConSide flick" id="side4">
-                            <hr id="right_content">
+                            <hr class="hr">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
                             <h4>VERSCHWIEGENHEIT</h4>
@@ -194,7 +194,7 @@
                             <p>Die Mediatorin ist allen Parteien gleichermaßen verpflichtet.</p>
                             </div>
 
-                            <hr id="right_content">
+                            <hr class="hr">
                         </div>
 
                         <div class="timeRow_center">
@@ -220,7 +220,7 @@
                         </div>
 
                         <div class="timeConSide flick" id="side4">
-                            <hr id="right_content">
+                            <hr class="hr">
                             <div class="left_content">
                             <img src="../img/abschlusskappe.png" alt="">
                             <h4>GÜNSTIGER</h4>
@@ -1047,5 +1047,5 @@
 
 <!-- Footer -->
 <?php require_once('footer.php') ?>
-<script src="../js/kreis_layout.js"></script>
+<script src="../js/kreis_layout copy.js"></script>
 </html>
