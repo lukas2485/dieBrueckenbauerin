@@ -5,8 +5,8 @@ font-family: 'Open Sans', sans-serif;
 --darkerColor : #899a88;
 --lightColor: #f2f0e1;
 --mainColorheadline: #364635;
---diameterCircle: 150px;
---shrinkingCircle: calc(var(--diameterCircle)*0.3);
+--diameterCircle: 180px;
+--shrinkingCircle: calc(var(--diameterCircle)*0.85);
 }
 
 .zeitContainer{

@@ -32,7 +32,7 @@
 
         <!-- ContentBOX 1-->
         <div class="contentBox">
-
+            <div class="contentInner">
                 <h3>Grundpfeiler der Mediation</h3>
 
                 <div class="zeitContainer">
@@ -235,7 +235,9 @@
                     <!-- Hintergrundlinie -->
                     <div class="bg-line"></div>
 
+            
                 </div>
+            </div>
         </div>
 
 
@@ -818,59 +820,6 @@
         </div>
 
 
-        <!-- Alternative 2 Spaltig 
-        <div class="contentInner_TwoColumn">
-               
-                <div class="section1">
-                    <div class="section1Inner">
-                    <h3>Wirtschaft/Arbeitswelt</h3>
-
-                        <div class="flex align_center column_gap flex_start">
-                            <div class="sec1Item">
-                                <p>Bei Auseinandersetzungen im betrieblichen Bereich geht es um viel: denn es geht um Mitarbeiter*innen, die motiviert werden wollen, um wirtschaftliche Ziele, die erreicht werden müssen, bis hin zu Bestandsfragen eines Unternehmens oder einer Organisation.</p>
-                                <br>
-                                <p>Konflikte lenken von den Zielsetzungen ab und leiten die Energie in destruktive Bahnen. Mediation hilft bei der Klärung. Dabei geht es nicht um Fehler der Vergangenheit, sondern um Lösungen für die Zukunft.</p>
-                                <br>
-                                <p>Wirtschaftsmediation ist eine Methode der außergerichtlichen Klärung von sich abzeichnenden oder bereits bestehenden innerbetrieblichen bzw. zwischenbetrieblichen Konflikten im gesamtwirtschaftlichen Umfeld.</p>
-                                <br>
-                                <h4>Diese umfassen insbesondere folgende Konflikte:</h4>
-                                <hr>
-                                <ul>
-                                    <li>in oder zwischen Teams bzw. Abteilungen</li>
-                                    <li>zwischen Mitarbeitern</li>
-                                    <li>im Arbeits- und Sozialrecht sowie beim Arbeitnehmerschutz (zB Hilfestellung bei Auflösung von Arbeitsverhältnissen)</li>
-                                    <li>bei Umstrukturierungen, bei der Schaffung neuer Aufgabenfelder</li>
-                                    <li>bei Uneinigkeit über die Ausrichtung in der Zukunft</li>
-                                    <li>in oder zwischen Teams bzw. Abteilungen</li>
-                                    <li>zwischen Mitarbeitern</li>
-                                </ul>
-                            </div>
-
-                            <div class="sec1Item">
-                                <ul>
-                                    
-                                    <li>im Arbeits- und Sozialrecht sowie beim Arbeitnehmerschutz (zB Hilfestellung bei Auflösung von Arbeitsverhältnissen)</li>
-                                    <li>bei Umstrukturierungen, bei der Schaffung neuer Aufgabenfelder</li>
-                                    <li>bei Uneinigkeit über die Ausrichtung in der Zukunft</li>
-                                </ul>
-
-                                <h4>Vorteile der Wirtschaftsmediation:</h4>
-                                <hr>
-                                <ul>
-                                    <li>Sie ist ein außergerichtliches Verfahren und vermeidet hohe Prozesskosten sowie eine langwierige Verfahrensdauer.</li>
-                                    <li>Sie verhilft zu wirtschaftlich sinnvollen und nachhaltigen Ergebnissen für alle Konfliktparteien.</li>
-                                    <li>Sie fördert Kooperation zur Fortführung der geschäftlichen bzw. persönlichen Beziehungen, anstatt Konfrontation.</li>
-                                    <li>Sie ist ein vertrauliches Verfahren und schützt das Unternehmen auch vor Imageverlust im Gerichtsverfahren.</li>
-                                    <li>Es gibt keine Verurteilung, sondern eine Lösung. Damit wird der Fortbestand einer Geschäftsbeziehung bzw. eines Arbeitsverhältnisses möglich. Motivierte Mitarbeiter erreichen auch eine höhere Produktivität. Dem Unternehmen entstehen weniger Kosten durch Kündigungen und Neueinschulungen.</li>
-                                </ul>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div> //-->
 
 
         <!-- ContentBOX 16-->
@@ -1047,5 +996,5 @@
 
 <!-- Footer -->
 <?php require_once('footer.php') ?>
-<script src="../js/kreis_layout copy.js"></script>
+<script src="../js/kreis_layout.js"></script>
 </html>
