@@ -42,7 +42,7 @@
 
                         <div class="timeConSide flick" id="side1">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/kontrolle.svg" alt="">
                             <h4>VOLLE KONTROLLE</h4>
                             <p>Kein ungewisser Ausgang - im Gegensatz zu einem gerichtlichen Verfahren haben die Parteien immer die volle Kontrolle über den Prozess. Keine Gerichtsverhandlung, sondern eine geschützte und vertrauliche Atmosphäre.</p>
                             </div>
@@ -76,7 +76,7 @@
                         <div class="timeConSide flick" id="side2">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/freiwillig.svg" alt="">
                             <h4>FREIWILLIG</h4>
                             <p>Die Parteien können den Prozess jederzeit beenden.</p>
                             </div>
@@ -90,7 +90,7 @@
 
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/schnell.svg" alt="">
                             <h4>SCHNELL</h4>
                             <p>Es ist schneller abgeschlossen als ein Gerichtsverfahren.</p>
                             </div>
@@ -123,7 +123,7 @@
                         <div class="timeConSide flick" id="side4">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/verstaendnis.svg" alt="">
                             <h4>VERSTÄNDNIS</h4>
                             <p>Zufriedenstellende, nachhaltige Lösung für alle Beteiligten – Alle Anliegen und Bedürfnisse werden berücksichtigt.</p>
                             </div>
@@ -139,7 +139,7 @@
 
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/selbstbestimmt.svg" alt="">
                             <h4>SELBSTBESTIMMT</h4>
                             <p>Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte, die sie miteinander haben, selbst zu lösen. Die Mediatorin fördert die Lösungsfindung und ist verantwortlich für den Ablauf.</p>
                             </div>
@@ -172,7 +172,7 @@
                         <div class="timeConSide flick" id="side4">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/verschwiegen.svg" alt="">
                             <h4>VERSCHWIEGENHEIT</h4>
                             <p>Gesetzliche Verpflichtung der Mediatorin zu Vertraulichkeit und absoluter Verschwiegenheit. Auch keine Zeugenaussage vor Gericht.</p>
                             </div>
@@ -189,7 +189,7 @@
 
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/allparteilich.svg" alt="">
                             <h4>ALLPARTEILICHKEIT</h4>
                             <p>Die Mediatorin ist allen Parteien gleichermaßen verpflichtet.</p>
                             </div>
@@ -222,7 +222,7 @@
                         <div class="timeConSide flick" id="side4">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/abschlusskappe.png" alt="">
+                            <img src="../img/svg/symbole/guenstiger.svg" alt="">
                             <h4>GÜNSTIGER</h4>
                             <p>Es ist kostengünstiger, weil geringere/keine Gerichtskosten und Anwaltskosten anfallen.</p>
                             </div>

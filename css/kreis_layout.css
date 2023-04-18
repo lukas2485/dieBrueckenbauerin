@@ -5,7 +5,7 @@ font-family: 'Open Sans', sans-serif;
 --darkerColor : #899a88;
 --lightColor: #f2f0e1;
 --mainColorheadline: #364635;
---diameterCircle: 180px;
+--diameterCircle: 30vh;
 --shrinkingCircle: calc(var(--diameterCircle)*0.85);
 }
 
@@ -34,6 +34,8 @@ font-family: 'Open Sans', sans-serif;
   border-radius: 50%;
   height: var(--diameterCircle);
   width: var(--diameterCircle);
+  max-width: 180px;
+  max-height: 180px;
   background-color: var(--lightColor);
   position: relative;
   transition: all 1600ms ease-in-out;
@@ -43,7 +45,6 @@ font-family: 'Open Sans', sans-serif;
   width: 45%;
   opacity: 0;
   border-radius: 10px;
-  padding: 10px;
   transition: opacity 800ms;
   display:flex;
   align-items: center;
@@ -106,7 +107,7 @@ font-family: 'Open Sans', sans-serif;
     color: var(--mainColorheadline);
     text-align: center;
   }
-  
+
   .subheadline h3{
     text-transform: uppercase;
     color: var(--mainColorheadline);
@@ -128,7 +129,7 @@ font-family: 'Open Sans', sans-serif;
 
 .timeConSide p{
   color: rgb(41, 59, 77);
-  font-size: 1.3rem;
+  font-size: 1.5rem;
 }
 
 .timeConSide img{

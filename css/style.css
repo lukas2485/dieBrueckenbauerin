@@ -659,19 +659,6 @@ p {
     }
     
     
-
-
-    /* Kreis HeaderBild */
-    .headerBild_Text h1{
-        font-size: 10vw;
-    }
-    
-    .headerBild_Text h2{
-        font-size: 3.7vw;
-    }
-
-
-    
     /* Container für Bild und Box */
     .contentInner{
         width: 90%;
@@ -694,6 +681,10 @@ p {
         font-size: 2.8rem;
     }
 
+
+
+
+
     /* Mobile Ansicht für zweispaltige Boxen */
 
     .sec1Item {
@@ -708,12 +699,36 @@ p {
         flex-direction: column;
     }
 
+    /* Kreis HeaderBild */
+    .headerBild_Text h1{
+        font-size: 10vw;
+    }
+    
+    .headerBild_Text h2{
+        font-size: 3.7vw;
+    }
+
     /* Kreis im Header */
     .headerBild_Text {
         box-shadow: none;
         border: none;
     }
 
+
+    /* Mobile Ansicht für zweispaltige Boxen */
+    .timeConSide {
+        max-height: 300px;
+        padding: 20px 0;
+    }
+
+    .left_content h4, .left_content p{
+        word-break: break-all;
+        hyphens: auto;
+      }
+
+    .timeConSide p{
+        font-size: 1.2rem!important;
+    }
 
 
     /* Container für Bild und Box */
