@@ -93,7 +93,7 @@ h2 {
 .headerBild_Text h2{
     font-size: 2.6rem;
     font-weight: 400;
-    padding: 5rem 0 0 0;
+    padding: 0;
 }
 
 h3 {
@@ -217,8 +217,10 @@ p {
     justify-content: center;
     align-items: center;
     border-radius: 50%;
-    width: 450px;
-    height: 450px;
+    width: 50vw;
+    height: 50vw;
+    max-width: 430px;
+    max-height: 430px;
     margin:auto;
     text-align: center;
     background-color: rgb(137, 154, 136, 0.3);
@@ -264,10 +266,6 @@ p {
     align-items: flex-start;
     column-gap: 5%;
     padding: 30px 0;
-}
-
-.footer_item {
-    
 }
 
 .nav-menu {
@@ -666,11 +664,11 @@ p {
 
     /* Kreis HeaderBild */
     .headerBild_Text h1{
-        font-size: 7rem;
+        font-size: 10vw;
     }
     
     .headerBild_Text h2{
-        font-size: 2rem;
+        font-size: 3.7vw;
     }
 
 
