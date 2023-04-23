@@ -185,9 +185,10 @@ p {
 }
 
 .headerBild {
-    background-image: url(../img/headerbild-schmal.jpg);
+    background-image: url(../img/portrait_small.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center right;
     height: 75vh;
     width: 100%;
     position: relative;
@@ -728,6 +729,14 @@ p {
 
     .timeConSide p{
         font-size: 1.2rem!important;
+    }
+
+    /* Portrait Startmenue */
+
+    .headerBild {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 80% center;
     }
 
 
