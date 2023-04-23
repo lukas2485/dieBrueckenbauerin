@@ -20,7 +20,7 @@
 
     <h3 id="impressum_h3">Impressum</h3>
 
-    <main>
+  <main>
 		<div class="col">
 			<h4>Medieninhaberin:</h4>
       <p>Mag.a Simone Hausensteiner, Eingetragene Mediatorin nach dem Zivilrechts-Mediations-Gesetz.</p>
@@ -39,7 +39,7 @@
 		<div class="col">
 			
       
-            <h4>Verleihungsstaat:</h4>
+      <h4>Verleihungsstaat:</h4>
       <p>Österreich</p>
       <h4>Anschrift</h4>
       <p>Birkenweg 200<br>
@@ -48,12 +48,12 @@
       <h4>Fotos:</h4>
       <p>Sebastian Berger</p>
       <h4>Haftung:</h4>
-      <p>Sämtliche Texte auf der Website wurden sorgfältig geprüft. Ungeachtet dessen kann keine Garantie für Richtigkeit, Vollständigkeit und Aktualität der Angaben übernommen werden. Copyright: Sämtliche Texte, Grafiken und Bilder sind urheberrechtlich geschützt. Eine Verwendung ist nur mit ausdrücklicher Genehmigung zulässig.</p>
+      <p>Sämtliche Texte auf der Website wurden sorgfältig geprüft. Ungeachtet dessen, kann keine Garantie für Richtigkeit, Vollständigkeit und Aktualität der Angaben übernommen werden. Copyright: Sämtliche Texte, Grafiken und Bilder sind urheberrechtlich geschützt. Eine Verwendung ist nur mit ausdrücklicher Genehmigung zulässig.</p>
       
       <p>Tätigkeit unterliegt dem Zivilrechts-Mediations-Gesetz, BGBI. I Nr. 29/2003</p>
       <p>Mitglied des ÖBM <a href="http://www.öbm.at" target="_blank">www.öbm.at</a></p>
     </div>
-      </main>
+  </main>
 
    
 </body>

@@ -992,6 +992,6 @@
 
 
 <!-- Footer -->
-<?php require_once('footer.php') ?>
+<?php require_once('footer.php'); ?>
 <script src="../js/kreis_layout.js"></script>
 </html>
