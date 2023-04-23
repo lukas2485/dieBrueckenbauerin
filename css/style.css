@@ -81,6 +81,14 @@ h2 {
     font-style: italic; 
 }
 
+.col h4 {
+    text-align: left;
+}
+
+.col h4 {
+    text-align: left;
+}
+
 .sec1Item h4{
     margin-top: 0;
 }
@@ -227,6 +235,37 @@ p {
     -webkit-box-shadow: 1px 2px 36px 14px rgba(54,70,53,0.65);
     -moz-box-shadow: 1px 2px 36px 14px rgba(54,70,53,0.65);
     box-shadow: 1px 2px 36px 14px rgba(54,70,53,0.65);
+}
+
+main {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+main p, main h4 {
+    word-break: break-word;
+    hyphens: auto;
+    margin: 0;
+}
+
+main h4 {
+    margin: 2rem 0;
+}
+
+#impressum_h3 {
+    margin-top: 3rem;
+}
+
+.col {
+    flex-basis: calc(50% - 10px);
+    margin-bottom: 20px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+.col:last-of-type {
+    padding-right: 0;
 }
 
 
@@ -737,6 +776,13 @@ p {
         background-repeat: no-repeat;
         background-size: cover;
         background-position: 80% center;
+    }
+
+    /* Impressum */
+
+    .col {
+        flex-basis: 100%;
+        padding-right: 0;
     }
 
 

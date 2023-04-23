@@ -22,9 +22,6 @@
     <div class="headerBild">
         <!-- Overlay -->
         <div class="headerBild_Overlay"></div>
-
-            
-        
     </div>
 
     <!-- Content -->
