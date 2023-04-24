@@ -528,8 +528,9 @@ main h4 {
 
 
 .flip-card-container h1, .flip-card-container h4, .flip-card-container p{
-    word-break: break-word;
     color: var(--lightColor);
+    word-wrap:break-word;
+    hyphens: auto;
 }
 
 

@@ -50,7 +50,7 @@
                         <div class="timeRow_center">
                             <div class="circle" id="circle1">
                             <h3>
-                                <span>VOLLE</span> <br>
+                                VOLLE <br>
                                       KONTROLLE</h3>
                             </div>
                         </div>
@@ -394,7 +394,7 @@
 
                         <div class="flip-card-back">
                         <div class="card-back-text">
-                            <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis. Eine Mediation kann den Scheidungs-/Trennungspartnern helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
+                            <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis. Eine Mediation kann den Scheidungs-/Trennungs&shy;partnern helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
                             
                             <div class="button">
                             <a href="#scheidung">mehr</a>
