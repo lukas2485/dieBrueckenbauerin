@@ -858,7 +858,7 @@
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
-                <div class="introColumn">
+                <div class="introColumn lehrling">
 
                     <h4>Vorteile für Lehrberechtigte</h4>
 
@@ -879,7 +879,7 @@
             <!-- InnerContent -->
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
-                <div class="introColumn">
+                <div class="introColumn lehrling">
 
                     <h4>Vorteile für Lehrlinge</h4>
 
