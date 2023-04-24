@@ -626,7 +626,7 @@
                         Wie bei jeder Mediation gelten auch in der Familienmediation die Prinzipien der Vertraulichkeit, der Allparteilichkeit und dem ausgleichenden Wirken der Mediatorin. Ein Austausch im Rahmen einer Mediation - abseits der täglichen Hektik und auf Augenhöhe - bringt beste Chancen, gemeinsame und im Familienalltag gut umsetzbare Lösungen zu entwickeln.
                     </p>
 
-                    <h4>Folgende Anwendungsbereiche sind besonders eine <br>Familienmediation geeignet:</h4>
+                    <h4>Folgende Anwendungsbereiche sind besonders für eine Familienmediation geeignet:</h4>
                     <hr>
 
                     <ul>
@@ -666,7 +666,7 @@
 
                     <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis. Kränkungen, Enttäuschungen, Verletzungen und nicht erfüllte Erwartungen während der Ehe/Beziehung führen dazu, dass der Entschluss gefasst wird, diese zu beenden. Oft stellt sich auch das Gefühl ein, man habe sich auseinander gelebt und findet keine Gemeinsamkeiten mehr.</p>
                     <br>
-                    <p>Eine Mediation kann den Scheidungs-/Trennungspartnern helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
+                    <p>Eine Mediation kann den Scheidungs-/Trennungs&shy;partnern helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
                     <br>
                     <p>Um eine Scheidung schnell und kostengünstig zu erledigen, wünschen sich die meisten Paare eine einvernehmliche Scheidung. Dafür ist es aber notwendig, sich über alle Scheidungsfolgen zu einigen.</p>
                     
@@ -703,7 +703,7 @@
             <div class="contentInner">
                 <!-- Section 2 Spaltig -->
                 <div class="introColumn">
-                    <h3>Scheidungs-/Trennungsmediation ist sinnvoll für</h3>
+                    <h3>Scheidungs-/Trennungs&shy;mediation ist sinnvoll für</h3>
 
                     <ul>
                         <li>die Kinder, wenn die Eltern mit einer fairen Lösung ihre Elternschaft gemeinsam fortführen, auch wenn sie getrennt oder geschieden sind</li>
@@ -831,11 +831,11 @@
                             <div class="flex align_center justify_center column_gap flex_start">
                                 <!-- Links -->
                                 <div class="sec1Item">
-                                    <p> besondere Form einer Mediation in der Arbeitswelt stellt die Absicht einer außerordentlichen Auflösung eines Lehrverhältnisses und die Aufnahme eines Mediationsverfahrens gemäß § 15a BAG dar. In der Lehrlingsmediation sind zahlreiche und kurze Fristen sowie eine strikte Form einzuhalten.</p>
+                                    <p>Eine besondere Form einer Mediation in der Arbeitswelt stellt die Absicht einer außerordentlichen Auflösung eines Lehrverhältnisses und die Aufnahme eines Mediationsverfahrens gemäß § 15a BAG dar. In der Lehrlingsmediation sind zahlreiche und kurze Fristen sowie eine strikte Form einzuhalten.</p>
                                     <br>
                                     <p>Der Gesetzgeber ermöglicht eine außerordentliche Auflösung von Lehrverhältnissen zum Ende des ersten und zweiten Lehrjahres. Davor muss ein Mediationsverfahren stattfinden. In die Mediation sind der Lehrberechtigte, der Lehrling, bei dessen Minderjährigkeit auch der gesetzliche Vertreter und auf Verlangen des Lehrlings auch eine Person seines Vertrauens einzubeziehen.</p>
                                     <br>
-                                    <p>Ein Lehrverhältnis ist ein besonders geschütztes Arbeitsverhältnis und eine Kündigung ist auf beiden Seiten grundsätzlich nicht vorgesehen. Was tun, wenn sich Lehrling oder lehrberechtigte Person ein gemeinsames Abschließen der Lehrzeit nicht mehr vorstellen können? Woher kommen die Differenzen, warum klappt die Zusammenarbeit nicht mehr?</p>
+                                    <p>Ein Lehrverhältnis ist ein besonders geschütztes Arbeitsverhältnis und eine Kündigung ist auf beiden Seiten grundsätzlich nicht vorgesehen. Was tun, wenn sich Lehrling oder lehrberechtigte Person ein gemeinsames Abschließen der Lehrzeit nicht mehr vorstellen können? Woher kommen die Differenzen, warum klappt die Zusammenarbeit nicht mehr?</p><br>
 
                                     </p>
                                 </div>
