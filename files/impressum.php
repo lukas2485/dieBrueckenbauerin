@@ -23,7 +23,7 @@
   <main>
 		<div class="col">
 			<h4>Medieninhaberin:</h4>
-      <p>Mag.a Simone Hausensteiner, Eingetragene Mediatorin nach dem Zivilrechts-Mediations-Gesetz.</p>
+      <p>Mag.<sup>a</sup> Simone Hausensteiner, Eingetragene Mediatorin nach dem Zivilrechts-Mediations-Gesetz.</p>
       <h4>Berufsrecht:</h4>
       <p><a href="</a>http://www.mediatoren.justiz.gv.at/mediatoren/mediatorenliste.nsf/docs/home" target="_blank">http://www.mediatoren.justiz.gv.at/mediatoren/mediatorenliste.nsf/docs/home</a></p>
       <p>Eingetragen in die Liste der Mediatoren beim Bundesministerium für Justiz <a href="http://www.mediatorenliste.justiz.gv.at" target="_blank">www.mediatorenliste.justiz.gv.at</a></p>
@@ -41,7 +41,7 @@
       
       <h4>Verleihungsstaat:</h4>
       <p>Österreich</p>
-      <h4>Anschrift</h4>
+      <h4>Anschrift:</h4>
       <p>Birkenweg 200<br>
       4794 Kopfing<br> +43670/6528010<br>
       <a href="mailto:info@diebrückenbauerin.com">info@diebrückenbauerin.com</a></p>
@@ -49,7 +49,7 @@
       <p>Sebastian Berger</p>
       <h4>Haftung:</h4>
       <p>Sämtliche Texte auf der Website wurden sorgfältig geprüft. Ungeachtet dessen, kann keine Garantie für Richtigkeit, Vollständigkeit und Aktualität der Angaben übernommen werden. Copyright: Sämtliche Texte, Grafiken und Bilder sind urheberrechtlich geschützt. Eine Verwendung ist nur mit ausdrücklicher Genehmigung zulässig.</p>
-      
+      <br>
       <p>Tätigkeit unterliegt dem Zivilrechts-Mediations-Gesetz, BGBI. I Nr. 29/2003</p>
       <p>Mitglied des ÖBM <a href="http://www.öbm.at" target="_blank">www.öbm.at</a></p>
     </div>

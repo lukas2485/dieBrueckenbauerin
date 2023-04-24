@@ -150,7 +150,13 @@ hr {
 p {
     line-height: 1.5;
     font-weight: 300;
+    text-align: justify;
 }
+
+sup {
+    vertical-align: super;
+    font-size: smaller;
+  }
 
 .footer_item p, .footer_item span, .footer_item a {
     font-size: 1.3rem;
@@ -242,6 +248,9 @@ main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+
 }
 
 main p, main h4 {
@@ -709,6 +718,10 @@ main h4 {
     .contentInner_TwoColumn {
         max-width: 90%;
         margin: 0 auto;
+    }
+
+    main {
+        width: 90%;
     }
 
 
