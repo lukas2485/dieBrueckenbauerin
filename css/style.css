@@ -739,7 +739,9 @@ main h4 {
         font-size: 2.8rem;
     }
 
-
+    .align_right {
+        text-align: center;
+    }
 
 
 
