@@ -373,6 +373,10 @@ main h4 {
     color: var(--lightColor);
 }
 
+.light_section, .light_section a {
+    color: var(--mainColorheadline);
+}
+
 .show-more-Button {
     font-size: 1.8rem;
     border:1px solid rgb(173, 219, 173);
