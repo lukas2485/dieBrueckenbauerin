@@ -254,7 +254,7 @@ main {
     justify-content: space-between;
     width: 80%;
     margin: 0 auto;
-
+    min-height: 100vh;
 }
 
 main p, main h4 {
@@ -730,7 +730,6 @@ main h4 {
 
     main {
         width: 90%;
-        min-height: 100vh;
     }
 
 
