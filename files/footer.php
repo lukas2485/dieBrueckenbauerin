@@ -19,7 +19,7 @@
 
                     <div class="footer_item">
                         <p>
-                            <a href="../files/impressum.php"><span>Impressum</span></a> <br>
+                            <a href="impressum.php"><span>Impressum</span></a> <br>
                             <span>2023 © Copyright Lukas Ertl</span>
                         </p>
                     </div>
