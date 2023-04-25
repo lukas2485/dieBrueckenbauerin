@@ -8,7 +8,7 @@
 }
 
 .introColumn p{
-    text-align: justify;
+    text-align: left;
 }
 
 .question_Box {
@@ -49,10 +49,11 @@
     width: 50px;
     border: 1px solid var(--mainColorheadline);
     border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 12px;
 }
 
 .more_faq_btn:hover{
-    box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 12px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 4px 18px;
 }
 
 hr {
