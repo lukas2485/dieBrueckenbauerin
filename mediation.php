@@ -9,10 +9,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="../img/Bridge_Icon.ico" type="image/ico">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/sectionLayout.css">
-    <link rel="stylesheet" href="../css/kreis_layout.css">
+    <link rel="icon" href="./img/Bridge_Icon.ico" type="image/ico">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/sectionLayout.css">
+    <link rel="stylesheet" href="./css/kreis_layout.css">
     <title>Hamburger Navbar</title>
 </head>
 
@@ -40,7 +40,7 @@
 
                         <div class="timeConSide flick" id="side1">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/kontrolle.svg" alt="">
+                            <img src="./img/svg/symbole/kontrolle.svg" alt="">
                             <h4>VOLLE KONT&shy;ROLLE</h4>
                             <p>Kein ungewisser Ausgang - im Gegensatz zu einem gerichtlichen Verfahren haben die Parteien immer die volle Kontrolle über den Prozess. Keine Gerichtsverhandlung, sondern eine geschützte und vertrauliche Atmosphäre.</p>
                             </div>
@@ -74,7 +74,7 @@
                         <div class="timeConSide flick" id="side2">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/freiwillig.svg" alt="">
+                            <img src="./img/svg/symbole/freiwillig.svg" alt="">
                             <h4>FREI&shy;WILLIG</h4>
                             <p>Die Parteien können den Prozess jederzeit beenden.</p>
                             </div>
@@ -88,7 +88,7 @@
 
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/schnell.svg" alt="">
+                            <img src="./img/svg/symbole/schnell.svg" alt="">
                             <h4>SCHN&shy;ELL</h4>
                             <p>Es ist schneller abgeschlossen als ein Gerichtsverfahren.</p>
                             </div>
@@ -121,7 +121,7 @@
                         <div class="timeConSide flick" id="side4">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/verstaendnis.svg" alt="">
+                            <img src="./img/svg/symbole/verstaendnis.svg" alt="">
                             <h4>VER&shy;STÄNDNIS</h4>
                             <p>Zufriedenstellende, nachhaltige Lösung für alle Beteiligten – Alle Anliegen und Bedürfnisse werden berücksichtigt.</p>
                             </div>
@@ -137,7 +137,7 @@
 
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/selbstbestimmt.svg" alt="">
+                            <img src="./img/svg/symbole/selbstbestimmt.svg" alt="">
                             <h4>SELBST&shy;BESTIMMT</h4>
                             <p>Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte, die sie miteinander haben, selbst zu lösen. Die Mediatorin fördert die Lösungsfindung und ist verantwortlich für den Ablauf.</p>
                             </div>
@@ -170,7 +170,7 @@
                         <div class="timeConSide flick" id="side4">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/verschwiegen.svg" alt="">
+                            <img src="./img/svg/symbole/verschwiegen.svg" alt="">
                             <h4>VER&shy;SCHWIEGENHEIT</h4>
                             <p>Gesetzliche Verpflichtung der Mediatorin zu Vertraulichkeit und absoluter Verschwiegenheit. Auch keine Zeugenaussage vor Gericht.</p>
                             </div>
@@ -187,7 +187,7 @@
 
                         <div class="timeConSide flick" id="side3">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/allparteilich.svg" alt="">
+                            <img src="./img/svg/symbole/allparteilich.svg" alt="">
                             <h4>ALL&shy;PARTEILICHKEIT</h4>
                             <p>Die Mediatorin ist allen Parteien gleichermaßen verpflichtet.</p>
                             </div>
@@ -220,7 +220,7 @@
                         <div class="timeConSide flick" id="side4">
                             <hr class="hr">
                             <div class="left_content">
-                            <img src="../img/svg/symbole/guenstiger.svg" alt="">
+                            <img src="./img/svg/symbole/guenstiger.svg" alt="">
                             <h4>GÜNSTIGER</h4>
                             <p>Es ist kostengünstiger, weil geringere/keine Gerichtskosten und Anwaltskosten anfallen.</p>
                             </div>
@@ -248,10 +248,14 @@
                     <h3>Wenn zwei sich streiten…</h3>
 
                     <p>
-                        Innerhalb Ihrer Familie oder im Freundeskreis sind die Fronten verhärtet und Sie befinden sich mit Ihrem Konflikt in einer Sackgasse? <br><br>
-                        Sie möchten sich bei einer bevorstehenden Trennung/Scheidung außergerichtlich einigen und sind an einer fairen Lösung für alle Beteiligten interessiert?<br><br>
-                        Ihre privaten oder beruflichen Verhandlungen sind festgefahren und Sie möchten vermeiden, dass ein Gericht eine ungewisse Entscheidung über Sie fällt?<br><br>
-                        Ich bin für Sie da.
+                    Innerhalb deiner Familie oder im Freundeskreis sind die Fronten verhärtet und ihr befindet euch mit eurem Konflikt in einer Sackgasse?
+<br><br>
+Ihr möchtet euch bei einer bevorstehenden Trennung/Scheidung außergerichtlich einigen und seid an einer fairen Lösung für alle Beteiligten interessiert?
+<br><br>
+Eure privaten oder beruflichen Verhandlungen sind festgefahren und ihr möchtet vermeiden, dass ein Gericht eine ungewisse Entscheidung über euch fällt?
+<br><br>
+Ich bin für euch da.
+
                     </p>
 
 
@@ -269,7 +273,7 @@
                     <h3>Wer kennt es nicht? </h3>
 
                     <p>
-                        Immer wiederkehrende Diskussionen um ein und dieselbe Sache. Ihre Argumente werden vom Gegenüber nicht gehört. Vielleicht ist der Umgangston auch schon schärfer und lauter geworden. Eine Lösung rückt in weite Ferne.<br><br>
+                        Immer wiederkehrende Diskussionen um ein und dieselbe Sache. Ihr dreht euch im Kreis. Eure Argumente werden vom Gegenüber nicht gehört. Vielleicht ist der Umgangston auch schon schärfer und lauter geworden. Eine Lösung rückt in weite Ferne.<br><br>
                         Konflikte gehören zu unserem täglichen Leben. Sie kommen überall vor und sind nicht zu vermeiden. Sie haben die unterschiedlichsten Ursachen. Jeder Konflikt ist einzigartig!<br><br>
                         Konflikte können eine positive Veränderung bewirken. Sie kosten aber auch Energie, Zeit und oft auch viel Geld, vor allem dann, wenn sie vor Gericht ausgetragen werden.<br><br>
                         Nicht bearbeitete Konflikte beeinträchtigen unsere Lebensqualität und unsere Leistungsfähigkeit! Sie zu ignorieren kann dazu führen, weitere Konflikte heraufzubeschwören.
@@ -294,24 +298,26 @@
                             <!-- Links -->
                             <div class="sec1Item">
                                 <p>
-                                    Außergerichtliche Konfliktlösung. Als eingetragene Mediatorin unterstütze ich die Konfliktparteien dabei, ihren Konflikt strukturiert zu bearbeiten und als Ergebnis eine für alle Beteiligten zufriedenstellende und eigenverantwortliche Lösung zu finden. Anders als vor Gericht, wo es immer einen Gewinner und einen Verlierer gibt, begleite ich die Konfliktparteien in der Mediation auf ihrem Weg zu einer einvernehmlichen Vereinbarung.
-                                    <br><br>
-                                    Wichtige Grundpfeiler der Mediation sind die Freiwilligkeit und die Eigenverantwortlichkeit der Konfliktparteien: Die Mediatorin ist verantwortlich für den Prozess, die Konfliktparteien sind verantwortlich für den Inhalt. Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte die sie miteinander haben selbst zu lösen, ohne dass ein Gericht eingeschaltet werden muss.
-                                    <br><br>
-                                    Ich bin also die Expertin für den Dialog, für die Steuerung des Prozesses, für Ziele, für die Rahmenbedingungen, für faire Kommunikation und Verhandlungen und für den Einsatz von professionellen Werkzeugen.
-                                    <br><br>
-                                    Mediation ist eine effektive Möglichkeit, wieder zu einer guten Gesprächsgrundlage zu kommen und eine Chance, Zeit und Energie in konstruktive Bahnen zu lenken.
+                                Außergerichtliche Konfliktlösung. Als eingetragene Mediatorin unterstütze ich euch dabei, euren Konflikt strukturiert zu bearbeiten und als Ergebnis eine für alle Beteiligten zufriedenstellende und eigenverantwortliche Lösung zu finden. Anders als vor Gericht, wo es immer einen Gewinner und einen Verlierer gibt, begleite ich euch in der Mediation auf eurem Weg zu einer einvernehmlichen Vereinbarung.
+<br><br>
+Wichtige Grundpfeiler der Mediation sind die Freiwilligkeit und die Eigenverantwortlichkeit der Konfliktbeteiligten: Ich bin verantwortlich für den Prozess, ihr seid verantwortlich für den Inhalt. Mediation basiert auf der Überzeugung, dass Menschen die Fähigkeit besitzen, die Konflikte die sie miteinander haben selbst zu lösen, ohne dass ein Gericht eingeschaltet werden muss.
+<br><br>
+Ich bin also die Expertin für den Dialog, für die Steuerung des Prozesses, für Ziele, für die Rahmenbedingungen, für faire Kommunikation und Verhandlungen und für den Einsatz von professionellen Werkzeugen.
+<br><br>
+Mediation ist eine effektive Möglichkeit, wieder zu einer guten Gesprächsgrundlage zu kommen und eine Chance, Zeit und Energie in konstruktive Bahnen zu lenken.
+
                                 </p>
                             </div>
 
                             <!-- Rechts -->
                             <div class="sec1Item">
                                 <p> 
-                                    Ich fördere als eingetragene Mediatorin also die Lösungsfindung. Darüber hinaus bin ich gesetzlich zu Vertraulichkeit und absoluter Verschwiegenheit verpflichtet, bin allen Parteien gleichermaßen verpflichtet („Allparteilichkeit“), interessenunabhängig und sorge für einen fairen, transparenten und effizienten Ablauf der Mediation.
-                                    <br><br>
-                                    Ziel einer Mediation ist es, eine Verständigung zwischen den Konfliktparteien herbeizuführen. In einem angeleiteten Gespräch werden die Bedürfnisse der Beteiligten herausgearbeitet. Bei der Lösungsfindung geht es darum, einvernehmliche und verbindliche Vereinbarungen zu erreichen, die auch in formalen Verträgen festgehalten werden können. Dadurch kommt es für alle Konfliktparteien zu einer Win-Win-Situation.
-                                    <br><br>
-                                    Bei höher eskalierten Konflikten ist es oftmals hilfreich, in den ersten Phasen Einzelgespräche zu führen, da es den Parteien schwer fällt, gemeinsam an einem Tisch zu sitzen.
+                                Ich fördere als eingetragene Mediatorin also die Lösungsfindung. Darüber hinaus bin ich gesetzlich zu Vertraulichkeit und absoluter Verschwiegenheit verpflichtet, bin allen Parteien gleichermaßen verpflichtet („Allparteilichkeit“), interessenunabhängig und sorge für einen fairen, transparenten und effizienten Ablauf der Mediation.
+                                <br><br>
+Ziel einer Mediation ist es, eine Verständigung zwischen den Konfliktparteien herbeizuführen. In einem angeleiteten Gespräch werden eure Bedürfnisse herausgearbeitet. Bei der Lösungsfindung geht es darum, einvernehmliche und verbindliche Vereinbarungen zu erreichen, die auch in formalen Verträgen festgehalten werden können. Dadurch kommt es für alle Konfliktparteien zu einer Win-Win-Situation.
+<br><br>
+Bei höher eskalierten Konflikten ist es oftmals hilfreich, in den ersten Phasen Einzelgespräche zu führen, da es den Parteien schwer fällt, gemeinsam an einem Tisch zu sitzen.
+
                                 </p>
                             </div>
                         </div>
@@ -395,7 +401,7 @@
 
                         <div class="flip-card-back">
                         <div class="card-back-text">
-                            <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis. Eine Mediation kann den Scheidungs-/Trennungs&shy;partnern helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
+                            <p>Eine Scheidung/Trennung ist meist ein hoch emotionales Ereignis. Eine Mediation kann euch helfen, faire Verhandlungen zu führen und eine gemeinsame Elternschaft für die Kinder zu entwickeln.</p>
                             
                             <div class="button">
                             <a href="#scheidung">mehr</a>
@@ -544,14 +550,14 @@
 
                     <ul>
                         <li><strong>Kein ungewisser Ausgang</strong><br>
-                            im Gegensatz zu einem gerichtlichen Verfahren haben die Parteien immer die volle Kontrolle über den Prozess.</li>
+                            im Gegensatz zu einem gerichtlichen Verfahren habt ihr immer die volle Kontrolle über den Prozess.</li>
                         <li>Es ist <strong>kostengünstiger</strong>,<br>
                             weil geringere/keine Gerichtskosten und Anwaltskosten anfallen.</li>
                         <li>Es ist <strong>schneller</strong><br>
                             abgeschlossen als ein Gerichtsverfahren.</li>
                         <li><strong>Freiwilligkeit</strong><br>
-                            Die Parteien können den Prozess jederzeit beenden. Es besteht keine Verpflichtung eine Mediation zu Ende zu bringen!</li>
-                        <li>Bei einer gerichtlichen Entscheidung wird nur auf die Gesetzmäßigkeit geachtet und nicht auf die Bedürfnisse der Parteien. Das Gericht entscheidet also nach Beweiserfolg. In einer Mediation muss keine außenstehende Person überzeugt werden (also keine „Dreckwäsche“ gewaschen werden).</li>
+                            Ihr könnt den Prozess jederzeit beenden. Es besteht keine Verpflichtung eine Mediation zu Ende zu bringen!</li>
+                        <li>Bei einer gerichtlichen Entscheidung wird nur auf die Gesetzmäßigkeit geachtet und nicht auf eure Bedürfnisse. Das Gericht entscheidet also nach Beweiserfolg. In einer Mediation muss keine außenstehende Person überzeugt werden (also keine „Dreckwäsche“ gewaschen werden).</li>
                         <li><strong>Zufriedenstellende, nachhaltige Lösung für alle Beteiligten</strong> - In einer Mediation wird Bedacht auf die zukünftige Lebenssituation genommen und alle Anliegen und Bedürfnisse in einer kreativen Gesamtlösung miteingebunden. Jeder Mensch möchte Anerkennung und Wertschätzung erfahren! In einem solchen Verfahren ist das möglich. Es gibt keine Verlierer.</li>
                         <li>Keine Gerichtsverhandlung, sondern eine <strong>geschützte und vertrauliche Atmosphäre.</strong></li>
                         <li>Auch die in einer Mediation erarbeitete gemeinsame Lösung ist rechtlich verbindlich und kann in einem etwaigen Gerichtsverfahren vorgelegt werden.</strong></li>
@@ -689,7 +695,7 @@
                         <br><br>
                         Gerade dann, wenn gemeinsame Kinder da sind, bekommen diese die Streitigkeiten mit, was für die Kinder eine große psychische Belastung darstellt.
                         <br><br>
-                        Mit meiner Hilfe haben Sie die Möglichkeit, diese Einigungen unter meiner Anleitung zu treffen. Ich biete Ihnen einen neutralen Ort und sorge dafür, dass Ihre Gespräche konstruktiv verlaufen und Sie Lösungen vereinbaren können, mit denen beide zufrieden sind.
+                        Mit meiner Hilfe habt ihr die Möglichkeit, diese Einigungen unter meiner Anleitung zu treffen. Ich biete euch einen neutralen Ort und sorge dafür, dass eure Gespräche konstruktiv verlaufen und ihr Lösungen vereinbaren können, mit denen ihr beide zufrieden seid.
                     </p>
                     
 
@@ -994,5 +1000,5 @@
 
 <!-- Footer -->
 <?php require_once('footer.php'); ?>
-<script src="../js/kreis_layout.js"></script>
+<script src="./js/kreis_layout.js"></script>
 </html>

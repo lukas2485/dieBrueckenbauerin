@@ -9,10 +9,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="../img/Bridge_Icon.ico" type="image/ico">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/sectionLayout.css">
-    <link rel="stylesheet" href="../css/kreis_layout.css">
+    <link rel="icon" href="./img/Bridge_Icon.ico" type="image/ico">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/sectionLayout.css">
+    <link rel="stylesheet" href="./css/kreis_layout.css">
     <title>Hamburger Navbar</title>
 </head>
 
@@ -38,11 +38,12 @@
             <div class="contentInner">
                 <!-- Section -->
                 <div class="introColumn">
-                    <h3>Konfliktcoaching </h3>
 
                     <p>
-                    Sie sind in einem Konflikt mit jemandem und nicht bereit für eine Mediation? Sie möchten aber trotzdem etwas tun und den Konflikt beilegen? Sie erwarten einen Konflikt und wollen diesen schon vorab vermeiden? Oder Sie würden gerne eine Mediation machen, aber nicht alle am Konflikt Beteiligten sind derzeit zu einem gemeinsamen Mediationsgespräch bereit?<br><br>
-                    Auch dann können Sie sich an mich wenden. Anders als bei einer Mediation ist es im Konfliktcoaching nicht notwendig, dass die anderen Konfliktparteien eingebunden werden. In einem Einzelcoaching können wir eine Einschätzung Ihrer Konfliktsituation vornehmen, mehr Verständnis für die vorhandenen Unstimmigkeiten gewinnen und so passende Möglichkeiten für Ihre nächsten Schritte in der Sache erarbeiten. Im Vordergrund steht hier das Gewinnen neuer Sichtweisen auf die Konfliktsituation. Dadurch können Sie Ihren Handlungsspielraum ausbauen und Ihr Handeln stärken. Dies ermöglicht Ihnen neue Wege!
+                    Du bist in einem Konflikt mit jemandem und nicht bereit für eine Mediation? Du möchtest aber trotzdem etwas tun und den Konflikt beilegen? Du erwartest einen Konflikt und willst diesen schon vorab vermeiden? Oder du würdest gerne eine Mediation machen, aber nicht alle am Konflikt Beteiligten sind derzeit zu einem gemeinsamen Mediationsgespräch bereit?
+<br><br>
+Auch dann kannst du dich an mich wenden. Anders als bei einer Mediation ist es im Konfliktcoaching nicht notwendig, dass die anderen Konfliktparteien eingebunden werden. In einem Einzelcoaching können wir eine Einschätzung deiner Konfliktsituation vornehmen, mehr Verständnis für die vorhandenen Unstimmigkeiten gewinnen und so passende Möglichkeiten für deine nächsten Schritte in der Sache erarbeiten. Im Vordergrund steht hier das Gewinnen neuer Sichtweisen auf die Konfliktsituation. Dadurch kannst du deinen Handlungsspielraum ausbauen und dein Handeln stärken. Dies ermöglicht dir neue Wege.
+
                     </p>
 
                 </div>
@@ -114,5 +115,5 @@
 
 <!-- Footer -->
 <?php require_once('footer.php') ?>
-<script src="../js/kreis_layout.js"></script>
+<script src="./js/kreis_layout.js"></script>
 </html>

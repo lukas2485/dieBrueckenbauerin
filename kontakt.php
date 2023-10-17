@@ -9,9 +9,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="../img/Bridge_Icon.ico" type="image/ico">
-    <link rel="stylesheet" href="../css/style.css">
-    <link rel="stylesheet" href="../css/kontakt.css">
+    <link rel="icon" href="./img/Bridge_Icon.ico" type="image/ico">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/kontakt.css">
     <title>Hamburger Navbar</title>
 </head>
 
@@ -28,7 +28,7 @@
             <!-- Kontaktblock -->
             <div class="kontaktContent">
                 <div class="headline">
-                    <h3>Kontaktieren Sie mich</h3>
+                    <h3>Kontaktiert mich gerne</h3>
                     <p> für ein unverbindliches Erstgespräch.</p>
                 </div>
 
@@ -36,7 +36,7 @@
                 <div class="innerContactContainer">
                         <div class="element">
                             <div class="elementImg">
-                                <img src="../img/kontakt/map-pin-white.png" alt="">
+                                <img src="./img/kontakt/map-pin-white.png" alt="">
                             </div>
                             <h4>ADRESSE</h4>
                             <p>Birkenweg 200 <br>
@@ -45,7 +45,7 @@
 
                         <div class="element">
                             <div class="elementImg">
-                                <img src="../img/kontakt/Handy.png" alt="">
+                                <img src="./img/kontakt/Handy.png" alt="">
                             </div>
                             <h4>Handy</h4>
                             <p>+43 681 10 25 39 54</p>
@@ -53,7 +53,7 @@
 
                         <div class="element">
                             <div class="elementImg">
-                                <img src="../img/kontakt/Email.png" alt="">
+                                <img src="./img/kontakt/Email.png" alt="">
                             </div>
                             <h4>Mail</h4>
                             <a href="mailto:info@diebrückenbauerin.com">info@diebrückenbauerin.com</a>

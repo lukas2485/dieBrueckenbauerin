@@ -440,7 +440,14 @@ main h4 {
 .foto_right {
     height: auto;
     width: 60%;
+    object-fit: cover;
+    /*.foto_right-webkit-mask-image: url(../img/svg/blob2.svg);
+    mask-image: url(../img/svg/blob2.svg);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;*/
 }
+
+
 
 
 /* Container für Bild und Box */
