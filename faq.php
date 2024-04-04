@@ -1,20 +1,16 @@
-<?php require_once('navbar.php');  ?>
-
-
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="./img/Bridge_Icon.ico" type="image/ico">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/sectionLayout.css">
     <link rel="stylesheet" href="./css/kreis_layout.css">
     <link rel="stylesheet" href="./css/faq.css">
-    <title>Hamburger Navbar</title>
+    <link rel="icon" href="./img/Bridge_Icon.ico" type="image/ico">
+    <title>Die Brückenbauerin</title>
 </head>
 
 <body>

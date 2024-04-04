@@ -1,9 +1,5 @@
-<?php  require_once('navbar.php');  ?>
-
-
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 
 <head>
     <meta charset="UTF-8">
@@ -13,7 +9,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/sectionLayout.css">
     <link rel="stylesheet" href="./css/kreis_layout.css">
-    <title>Hamburger Navbar</title>
+    <title>Die Brückenbauerin</title>
 </head>
 
 <body>
