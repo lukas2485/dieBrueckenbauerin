@@ -362,7 +362,7 @@ main h4 {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 20%;
+    /*width: 20%;*/
 }
 .navHome p{
     padding-top: 1rem;
@@ -899,6 +899,10 @@ main h4 {
 
     .nav-item {
         margin: 2.5rem 0;
+    }
+
+    .navbar .navHomeLogo img{
+        max-width: 275px;
     }
 
     .hamburger {
