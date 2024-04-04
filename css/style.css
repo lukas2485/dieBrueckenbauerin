@@ -703,6 +703,13 @@ main h4 {
 
 }
 
+@media only screen and (max-width: 1450px) {
+    .navbar {
+        padding: 1rem 5% 1rem 5%;
+    }
+}
+
+
 @media screen and (min-width: 1001px) {
     .contentInner {
         max-width: 50%;

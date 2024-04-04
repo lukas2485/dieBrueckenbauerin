@@ -31,6 +31,10 @@
                 <li class="nav-item">
                     <a href="kontakt.php" class="nav-link">Kontakt</a>
                 </li>
+
+                <li class="nav-item">
+                    <a href="termin.php" class="nav-link">Buchen</a>
+                </li>
             </ul>
 
             <div class="hamburger">
