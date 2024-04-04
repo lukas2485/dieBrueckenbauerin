@@ -23,7 +23,7 @@
                     <a href="zusatzangebot.php" class="nav-link">Zusatzangebot</a>
                 </li>
                 <li class="nav-item">
-                    <a href="heart.php" class="nav-link">&hearts;</a>
+                    <a href="heart.php" class="nav-link">Human Design</a>
                 </li>
                 <li class="nav-item">
                     <a href="faq.php" class="nav-link">FAQ</a>

@@ -39,6 +39,8 @@
                 <!-- Section -->
                 <div class="introColumn">
 
+                    <h3>Persönliche Konfliktklärung </h3>
+
                     <p>
                     Du bist in einem Konflikt mit jemandem und nicht bereit für eine Mediation? Du möchtest aber trotzdem etwas tun und den Konflikt beilegen? Du erwartest einen Konflikt und willst diesen schon vorab vermeiden? Oder du würdest gerne eine Mediation machen, aber nicht alle am Konflikt Beteiligten sind derzeit zu einem gemeinsamen Mediationsgespräch bereit?
 <br><br>
